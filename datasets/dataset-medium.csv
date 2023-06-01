@@ -1,0 +1,580 @@
+date,text,side,label
+2022-01-27 00:00:00,"A month before the invasion, the Russian leadership started to bring its nuclear arsenal into the political narrative, already suggesting an expansive interpretation of the official doctrine.",r,W
+2022-01-27 00:00:00,"Dmitry Medvedev, the Deputy Chairman of the Russian Security Council and a former president and prime minister, stated in an interview on January 27, that there was no need to review Russia’s nuclear doctrine.",r,W
+2022-01-27 00:00:00,"Moscow had “the right” to use strategic nuclear forces “in response to an attack involving weapons of mass destruction against us or our allies and in response to any other threat to our country’s existence, in other words, to a danger that threatens the very existence of our state”.",r,W
+2022-01-27 00:00:00,"This was “a comprehensive formula” that made it “possible to achieve various goals,” Medvedev said.",r,W
+2022-02-07 00:00:00,"Ten days later, Putin continued developing the nuclear narrative.",r,E
+2022-02-07 00:00:00,"On February 7, the Russian President implied at a joint press conference with French President Emanuel Macron during the latter’s visit to Moscow that Ukraine could drag NATO into a nuclear war.",r,E
+2022-02-07 00:00:00,"If Ukraine joined NATO and decided to take back Crimea through military means, European countries would be automatically drawn into a military conflict with Russia, Putin said.",r,E
+2022-02-07 00:00:00,"The Kremlin understood that “NATO’s united potential” was incomparably larger than that of Russia, but Russia was “one of the world’s leading nuclear powers” and was “superior” to “many” NATO countries “in terms of the number of modern nuclear force components”.",r,E
+2022-02-07 00:00:00,Putin claimed that neither he nor Macron wanted to see developments “unfold” that way,r,E
+2022-02-19 00:00:00,"On February 19, sitting alongside Belarusian leader Alexander Lukashenko, Putin oversaw an annual “strategic nuclear exercise,” usually held in fall.",r,W
+2022-02-19 00:00:00,"Russian forces tested nuclear-capable air-, sea-, and land-based ballistic and cruise missiles",r,W
+2022-02-22 00:00:00,"In a televised address on February 21, Putin accused Ukraine of seeking to acquire nuclear weapons and stated that the possibility of “foreign technological support” could not be ruled out.",r,W
+2022-02-22 00:00:00,"16 On February 22, he sought to clarify his earlier statement, stating that tactical nuclear weapons in Ukraine would be a “strategic threat” to Russia",r,W
+2022-02-24 00:00:00,"Washington was pursuing a “policy of containing Russia, with obvious geopolitical dividends,” Putin added.",r,E
+2022-02-24 00:00:00,"However, NATO’s policy was for Russia “a matter of life and death”.",r,E
+2022-02-24 00:00:00,"The Western actions were “not only a very real threat” to Russia’s interests but to “the very existence” of the state and to its “sovereignty,” Putin said.",r,E
+2022-02-24 00:00:00,"Hence, he addressed “those who may be tempted to interfere in these developments from the outside,” saying that “no matter” who tried to stand in Russia’s way or “create threats for our country and our people,” had to know that “Russia will respond immediately, and the consequences will be such as you have never seen in your entire history” – what many interpreted as a veiled threat to employ nuclear weapons against those who interfered in Russia’s attempt to eliminate an existential threat.",r,E
+2022-02-24 00:00:00,"Later in the same speech, Putin also emphasized that Russia was “one of the most powerful nuclear states” and had a “certain advantage in several cutting-edge weapons”.",r,W
+2022-02-24 00:00:00,"Within this clearly nuclear context, however, the Russian President defined the preconditions for a possible nuclear strike much more narrowly: “There should be no doubt for anyone that any potential aggressor will face defeat and ominous consequences should it directly attack our country”.",r,W
+2022-02-24 00:00:00,"That a direct attack on Russia could be answered with nuclear weapons was consistent with both Russia’s nuclear doctrine, adopted in 2020, and the declaratory policies of other nuclear powers",r,W
+2022-02-24 00:00:00,Representatives of NATO countries strongly condemned the Russian invasion.,w,D
+2022-02-24 00:00:00,"On February 24, US President Biden condemned the “brutal assault [by the Russian military] on the people of Ukraine without provocation, without justification, without necessity”.",w,D
+2022-02-24 00:00:00,He noted that NATO would convene to “map out the next steps” to “further strengthen all aspects” of the Alliance”.,w,D
+2022-02-24 00:00:00,25 Biden added: “Our forces are not and will not be engaged in the conflict with Russia in Ukraine.,w,D
+2022-02-24 00:00:00,Our forces are not going to Europe to fight in Ukraine but to defend our NATO Allies and reassure those Allies in the east”.,w,D
+2022-02-24 00:00:00,"However, the United States would “defend every inch of NATO territory with the full force of American power” and the Alliance was “more united and more determined than ever”.",w,D
+2022-02-24 00:00:00,Other NATO Allies expressed similar outrage.,w,W
+2022-02-24 00:00:00,"French Foreign Minister Jean-Yves Le Drian called Putin a “cynic” and a “dictator” on February 24 and issued a first nuclear counter-threat, saying that the Russian President had to understand that the transatlantic Alliance was also a nuclear alliance”.",w,W
+2022-02-26 00:00:00,"Western statements, in turn, were accompanied by actions, which however remained limited to economic sanctions and military aid.",w,D
+2022-02-26 00:00:00,"Thus, in the days following the invasion, the United States, the European Union, many other European states, but also Canada, Japan, and Australia, adopted an unprecedented sanctions package against Russia;29 and on February 26, Pentagon Press Secretary John Kirby announced “an additional $350 million in military assistance” for Ukraine, “including anti-armor, small arms and various munitions, body armor, and related equipment in support of Ukraine’s front-line defenders facing down Russia’s unprovoked attack”.",w,D
+2022-02-27 00:00:00,"Nonetheless, certain Western statements could have been interpreted by Russian policymakers as laying the ground for a direct intervention.",w,E
+2022-02-27 00:00:00,British Foreign Secretary Liz Truss said on February 27 that the immense costs of the war could well be the beginning of the end for Putin.,w,E
+2022-02-27 00:00:00,"She feared, however, that Putin was determined to use the most unsightly means.",w,E
+2022-02-27 00:00:00,"Thus, she urged Russia, not to escalate the conflict, but noted that the West had to be prepared for Russia trying to use even the worst weapons.",w,E
+2022-02-27 00:00:00,"The “long-running conflict” in Ukraine was “about freedom and democracy in Europe,” Truss noted.",w,E
+2022-02-27 00:00:00,"“If we don’t stop Putin in Ukraine, we are going to see others under threat: the Baltics, Poland, Moldova, and it could end up in a conflict with NATO.",w,E
+2022-02-27 00:00:00,"We do not want to go there,” she warned, suggesting (intentionally or not) that the Western stakes warranted a direct intervention.",w,E
+2022-02-27 00:00:00,3,w,E
+2022-02-27 00:00:00,"Even more disconcerting than the decision in Minsk, on February 27, Putin ordered Russian Defense Minister Sergey Shoigu and Armed Forces Chief of Staff Valery Gerasimov to put Russia’s “deterrence forces,” which include nuclear weapons, on a “high combat alert”.",r,E
+2022-02-27 00:00:00,"Putin cited “unfriendly economic actions” taken against Russia by Western countries, namely the “illegitimate sanctions,” and “aggressive statements” directed at Russia as reasons for the decision.",r,E
+2022-02-27 00:00:00,35 It was not initially clear what specific steps would accompany this decision.,r,E
+2022-02-27 00:00:00,3,r,E
+2022-02-28 00:00:00,"Then, on February 28, Shoigu declared that he had implemented Putin’s order by adding additional personnel at various locations – “shifts on duty” at “command posts” had been “put on enhanced combat duty”.",r,W
+2022-02-28 00:00:00,37 Experts consequently classified the decision as largely symbolic.,r,W
+2022-02-28 00:00:00,"White House Press Secretary Jen Psaki saw the Russian decision as part of a typical pattern of the Kremlin, artificially fabricating threats to justify further aggressive actions.",w,D
+2022-02-28 00:00:00,"Russia had not been threatened by NATO or Ukraine at any time, she said.",w,D
+2022-02-28 00:00:00,"The United States had the ability to defend itself, but it also had to speak out against what Putin was doing, Psaki continued, noting that Washington was “open” to providing additional assistance to Ukraine.",w,D
+2022-02-27 00:00:00,"Also on February 27, as a result of a foreign ministers’ meeting, the European Union announced the delivery of weapons and lethal support to Ukraine worth 450 million euros.",w,W
+2022-02-27 00:00:00,"In a press conference, Josep Borrell, the European Union’s top diplomat, stated that this would include the delivery of fighter jets, which Ukraine had asked for: “We are going to supply arms and even fighter jets.",w,W
+2022-02-27 00:00:00,"We are not talking just about ammunition; we are providing the most important arms to go to war,” Borell said.",w,W
+2022-02-27 00:00:00,“We know what kind of planes [the Ukrainian army can operate] and some Member States have these kinds of planes”.,w,W
+2022-02-27 00:00:00,"43 Borell was referring to fighter jets of the Soviet MiG or Sukhoi type, which for example Bulgaria, Croatia, Poland, Romania, and Slovakia reportedly owned.",w,W
+2022-02-27 00:00:00,44 Media later suggested that several Western governments had hoped a potential delivery of fighter jets would not be made public.,w,W
+2022-02-27 00:00:00,"45 In addition, Borrell said Poland had agreed to act as a “logistical hub” for the delivery of such “material assistance”.",w,W
+2022-02-28 00:00:00,"Much more significant than these public statements, however, was the fact that Washington probably warned Moscow on February 28 or March 1 through government channels against using tactical nuclear weapons in Ukraine.",w,E
+2022-02-28 00:00:00,"US media reported this in mid-March, citing statements by US officials from the National Security Council",w,E
+2022-02-28 00:00:00,"Russia’s rhetoric, meanwhile, remained unchanged.",r,E
+2022-02-28 00:00:00,"On February 28, a Russian Foreign Ministry spokeswoman, Maria Zakharova, stated in an interview that it would be a “golden dream” for the United States to deploy nuclear weapons in Ukraine",r,E
+2022-03-01 00:00:00,"On March 1, Russia held another military exercise involving nuclear submarines in the Barents Sea and the deployment of mobile intercontinental ballistic missile systems in Siberia.",r,W
+2022-02-28 00:00:00,"In a press conference on February 28, US President Joe Biden denied the question of whether Americans should be afraid of nuclear war.",w,D
+2022-02-28 00:00:00,"51 In his State of the Union address on March 1, he further reiterated that US forces “are not engaged and will not engage in conflict with Russian forces in Ukraine”.",w,D
+2022-02-28 00:00:00,"Hence: “Our forces are not going to Europe to fight in Ukraine, but to defend our NATO Allies – in the event that Putin decides to keep moving west,” the US President said.",w,D
+2022-02-28 00:00:00,He had made “crystal clear the United States and [its] Allies will defend every inch of territory of NATO countries with the full force of our collective power.,w,D
+2022-03-02 00:00:00,"Just one week after it had been announced, the delivery of fighter jets by EU states was put on hold – apparently also mainly due to efforts to avoid escalation with Russia.",w,D
+2022-03-02 00:00:00,"For example, at a joint press conference with Stoltenberg on March 2, Polish President Andrzej Duda declared his country was not sending “any jets to Ukraine because that would open a military interference in the Ukrainian conflict”.",w,D
+2022-03-02 00:00:00,"Poland was “not joining that conflict,” and NATO was “not a party to that conflict”.",w,D
+2022-03-02 00:00:00,Warsaw was “supporting Ukrainians with humanity aid” but was not “going to send any jets to the Ukrainian airspace”.,w,D
+2022-03-02 00:00:00,"Stoltenberg made similar comments, noting that the Alliance had provided “different types of military support: material, anti-tank weapons, air defense systems and other types of military equipment” as well as financial support, but that NATO was “not to be part of the conflict” and was not “going to send the troops into Ukraine or move planes into Ukrainian airspace”.",w,D
+2022-03-02 00:00:00,"58 According to media reports, Slovakia and Bulgaria also rejected the delivery of MiG fighter jets to Ukraine.",w,D
+2022-03-02 00:00:00,5,w,D
+2022-03-02 00:00:00,"Last but not least, US Defense Secretary Lloyd J. Austin III on March 2 postponed a planned test launch of the US Minuteman III missile.",w,D
+2022-03-02 00:00:00,"“Now, in this time of heightened tensions, the United States and other members of the international community rightly saw [Putin’s actions] as dangerous and irresponsible and … an unnecessary step,” Pentagon Press Secretary John F. Kirby said.",w,D
+2022-03-02 00:00:00,"“To demonstrate that we have no intention of engaging in any actions that can be misunderstood or misconstrued, the secretary of defense has directed that our Minuteman III intercontinental ballistic missile test launch scheduled for this week to be postponed,” he further commented on Austin’s decision.",w,D
+2022-03-02 00:00:00,"“We did not take this decision lightly, but instead to demonstrate that we are a responsible nuclear power”.",w,D
+2022-03-02 00:00:00,6,w,D
+2022-03-03 00:00:00,"On March 2, Russian Foreign Ministry spokeswoman Maria Zakharova expressed skepticism with regard to a possible Russian nuclear escalation.",r,D
+2022-03-03 00:00:00,"“We assume that this apocalyptic scenario [of Russia using nuclear weapons first] cannot be realized under any pretext and under any conditions,” she said.",r,D
+2022-03-03 00:00:00,"“When it comes to the use of nuclear weapons, we have already stated our position several times.",r,D
+2022-03-03 00:00:00,"Perhaps you are confusing us with the United States, but the Russian Federation has never spoken about this”.",r,D
+2022-03-03 00:00:00,"61 In a March 3 interview, Foreign Minister Lavrov stated that the goal of Russia’s “military operation” in Ukraine was to prevent Kyiv from acquiring nuclear weapons.",r,D
+2022-03-03 00:00:00,"In addition, he made somewhat cryptic comments about a possible war with the West, yet arguing that Moscow’s nuclear rhetoric was merely a reaction to Western threats.",r,D
+2022-03-03 00:00:00,"Thus, Lavrov noted that the French Foreign Minister le Drian had reminded the Russian leadership that France also had nuclear weapons (see February 24).",r,D
+2022-03-03 00:00:00,The Russian official also commented that British Foreign Secretary Truss had said “she was prepared for conflict between NATO and Russia” (see February 27).,r,D
+2022-03-03 00:00:00,"Also, he added that US President Biden had said that the alternative to sanctioning Russia was World War III.",r,D
+2022-03-03 00:00:00,"“I would like to draw your attention to the fact that the thought of nuclear war is constantly running through the minds of Western politicians but not the minds of Russians,” Lavrov concluded.",r,D
+2022-03-03 00:00:00,“I assure you that we will not let any provocations cause us to lose our balance.,r,D
+2022-03-03 00:00:00,"But if a real war is unleashed against us, this must be a concern for those who are hatching such plans.",r,D
+2022-03-03 00:00:00,And I believe these plans are being hatched”.,r,D
+2022-03-03 00:00:00,6,r,D
+2022-03-04 00:00:00,Zelenskyy’s NFZ request was however denied at an extraordinary NATO foreign ministers’ meeting to address the situation in Ukraine on March 4 – with reference to the associated risk of escalation.,w,D
+2022-03-04 00:00:00,"64 In the press conference that followed the summit, Stoltenberg condemned Russia’s “irresponsible” actions near the Zaporizhzhia nuclear facility.",w,D
+2022-03-04 00:00:00,"However, he stressed that NATO was “not part of this conflict” and was not seeking war with Russia.",w,D
+2022-03-04 00:00:00,"The Alliance had a responsibility to ensure that the conflict did not escalate and spread, he said.",w,D
+2022-03-04 00:00:00,That scenario would be even more destructive and dangerous.,w,D
+2022-03-04 00:00:00,"Stoltenberg also said that NATO continued to believe in arms control, but that such negotiations would require a Russian regime that takes political processes seriously.",w,D
+2022-03-04 00:00:00,"According to Stoltenberg, the Allies had rejected the establishment of a no-fly zone because such a direct engagement of NATO states could lead to a larger war in Europe",w,D
+2022-03-05 00:00:00,Putin warned on March 5 against the establishment of a no-fly zone.,r,W
+2022-03-05 00:00:00,This would have “tremendous and disastrous consequences” – “not only for Europe but also globally”.,r,W
+2022-03-05 00:00:00,Russia would consider the states seeking to impose a NFZ as parties to the conflict.,r,W
+2022-03-05 00:00:00,"Similar to Lavrov, Putin also claimed that Ukraine was trying to obtain nuclear weapons and still had relevant capabilities from Soviet times.",r,W
+2022-03-05 00:00:00,"He described the Western sanctions against Russia as tantamount to “war,” even though “thankfully” the conflict had “not got” to a hot war “yet”.",r,W
+2022-03-05 00:00:00,"Putin explained that Russia’s “so-called partners” understood what a NFZ “could lead to” and how much was at stake, “despite their reckless statements, for example, like the statement made by the UK Foreign Secretary, when she blurted out that NATO could get involved in the conflict.",r,W
+2022-03-05 00:00:00,And we immediately had to take a decision to put our deterrence forces on high alert” (see Truss on February 27 and Lavrov’s statement on March 3),r,W
+2022-03-08 00:00:00,"Also on March 8, the US House of Representatives Select Intelligence Committee held a hearing to assess Russia’s nuclear threats.",w,D
+2022-03-08 00:00:00,"At that hearing, Avril Haines, the Director of National Intelligence, stated that Russia had probably underestimated the international response to the invasion of Ukraine.",w,D
+2022-03-08 00:00:00,"Still, Putin was unlikely to be deterred by such blowback.",w,D
+2022-03-08 00:00:00,"Instead, he might escalate further to force a disarmament of Ukraine and its neutrality, and to prevent Kyiv from moving any closer to the United States or to NATO.",w,D
+2022-03-08 00:00:00,The US intelligence community assessed that Putin perceived the West as not respecting him enough.,w,D
+2022-03-08 00:00:00,"The Russian president probably thought he could not afford to lose this war, Haines said.",w,D
+2022-03-08 00:00:00,"What kind of victory he was willing to accept might change over time, due to the war’s significant costs, she noted.",w,D
+2022-03-08 00:00:00,"Putin’s nuclear saber rattling fit this assessment very well, Haines added.",w,D
+2022-03-08 00:00:00,"Nonetheless, the public announcement of a heightened alert of Russian deterrent forces was highly unusual.",w,D
+2022-03-08 00:00:00,"The United States had not seen such public pronouncements since the 1960s, Haines pointed out.",w,D
+2022-03-08 00:00:00,"But the US intelligence community had not observed any specific adjustments in Russia’s nuclear forces, going beyond what had occurred in previous moments of heightened tensions in recent decades.",w,D
+2022-03-08 00:00:00,"Putin’s nuclear threatening gestures were likely intended to discourage the West from providing additional support to Ukraine, Haines said.",w,D
+2022-03-08 00:00:00,"Putin was probably still confident that Russia could defeat Ukraine and wanted to prevent Western support that could tip the balance and force a conflict with NATO, she concluded",w,D
+2022-03-09 00:00:00,"In turn, Kremlin spokesperson Peskov warned at a March 9 press conference against the use of “any other airfields” for military aircraft takeoffs.",r,W
+2022-03-09 00:00:00,This was “an extremely undesirable and potentially dangerous scenario.,r,W
+2022-03-10 00:00:00,The Commander of the United States European Command Tod Wolters indeed expressed such escalation concerns on March 10.,w,D
+2022-03-10 00:00:00,MiGs would “not appreciably increase the effectiveness of the Ukrainian Air Force” as it already owned “numerous mission capable aircraft” that were “flying daily”.,w,D
+2022-03-10 00:00:00,"And: The US intelligence community assessed that the transfer could be “mistaken as escalatory and could result in Russian escalation with NATO,” which would produce “a high risk scenario”.",w,D
+2022-03-11 00:00:00,"On the same day, Biden also stressed that while the United States would “defend every inch of NATO territory with the full might of a united and galvanized NATO,” Washington would “not fight a war against Russia in Ukraine”.",w,D
+2022-03-11 00:00:00,The reason: “A direct confrontation between NATO and Russia is World War III.,w,D
+2022-03-11 00:00:00,And something we must strive to prevent”.,w,D
+2022-03-11 00:00:00,"86 The United States had a “sacred obligation on NATO territory — a sacred obligation — Article 5,” but Washington would “not fight the third World War in Ukraine,” Biden added at a political event.",w,D
+2022-03-11 00:00:00,87,w,D
+2022-03-15 00:00:00,"In this context, Kaczyński made a renewed push for direct Western support for Ukraine, calling for “a peacekeeping mission from NATO, or even possibly from a larger international structure, but a mission that will be able to defend itself and that will operate on Ukrainian territory”.",w,W
+2022-03-16 00:00:00,"In the press conference following the NATO defense ministers’ meeting on March 16, however, there was no mention of the Polish proposal for a peacekeeping mission.",w,D
+2022-03-16 00:00:00,"Stoltenberg said Allies were united in their support for Ukraine, but they were equally united in saying that “NATO should not deploy forces on the ground or in the airspace of Ukraine”.",w,D
+2022-03-16 00:00:00,"This is because they “have a responsibility to ensure that this conflict, this war, doesn’t escalate beyond Ukraine”.",w,D
+2022-03-16 00:00:00,"NATO would “not tolerate any attack on Allied sovereignty or territorial integrity,” he stressed.",w,D
+2022-03-16 00:00:00,"In this context, Stoltenberg announced a “reset” of the Alliance’s “collective defense and deterrence for the longer term”.",w,D
+2022-03-16 00:00:00,"Above all, NATO’s eastern flank should be strengthened.",w,D
+2022-03-16 00:00:00,"Referring to the 1997 NATO-Russia Founding Act, which had ruled out the permanent stationing of NATO troops on the territory of the former Warsaw Pact states, he stressed that today we were in a “totally different security environment”.",w,D
+2022-03-16 00:00:00,The Alliance would not let this document “create problems or hindrance for NATO to make the necessary decisions”.,w,D
+2022-03-16 00:00:00,"In light of Putin’s nuclear threats, Stoltenberg warned, one should “not underestimate the dangers related to the military capabilities of Russia, including the will to actually use force and impulse devastation and destruction on others”.",w,D
+2022-03-16 00:00:00,"NATO would do everything necessary “to make sure that there is no room for misunderstanding in Moscow, for miscalculation in Moscow about our commitment, readiness to protect and defend all allies and every inch of NATO territory”.",w,D
+2022-03-16 00:00:00,"In addition, he explained, ministers had decided to provide significant support to Ukraine",w,D
+2022-03-16 00:00:00,"Russian rhetoric, meanwhile, remained aggressive.",r,W
+2022-03-16 00:00:00,"In a videoconference with representatives of Russian regional governments on March 16, Putin leveled serious accusations against Western states.",r,W
+2022-03-16 00:00:00,"The West, he said, wanted to “cancel” Russia, “to finish [it] off, to reduce [it] to nothing by turning [it] into a weak and dependent country, destroying [its] territorial integrity and dismembering Russia”.",r,W
+2022-03-16 00:00:00,"But this would not work, the West would “fail,” Putin stressed.",r,W
+2022-03-16 00:00:00,"He also again described Western sanctions as having “all the attributes of an aggression, a war”.",r,W
+2022-03-16 00:00:00,"100 This comparison could be interpreted as a potential legitimization for further Russian aggression, or even for threats involving nuclear weapons.",r,W
+2022-03-19 00:00:00,"Against this background, Russia seemed bent to signal resolve by choosing to employ new types of nuclear-capable weapons.",r,W
+2022-03-19 00:00:00,"According to Russian media, Moscow employed a new Kinzhal hypersonic missile for the first time in Ukraine on March 18-20 – a nuclear-capable missile, but carrying a conventional warhead",r,W
+2022-03-20 00:00:00,The US government appeared unimpressed.,w,D
+2022-03-20 00:00:00,"On March 20, US Defense Secretary Austin explained that Putin was using these weapons because he was trying to “reestablish some momentum”.",w,D
+2022-03-20 00:00:00,"As for Moscow’s nuclear threats, Austin stressed, “any threat of the use of a nuclear weapon … is very dangerous”.",w,D
+2022-03-20 00:00:00,"However, he remained “confident” that the United States could defend itself as well as its allies and partners.",w,D
+2022-03-20 00:00:00,"Russia’s nuclear rhetoric was “not helpful,” but he was taking it seriously.",w,D
+2022-03-20 00:00:00,"A potential use of chemical weapons by Russia, Austin said, would draw a “significant reaction from not only the United States, but also the global community”.",w,D
+2022-03-20 00:00:00,"However, he would “not speculate about what exactly would change [the US calculus].",w,D
+2022-03-22 00:00:00,"Once again, some Russian officials started to walk back their government’s nuclear narratives.",r,D
+2022-03-22 00:00:00,"For instance, in a March 22 interview, Kremlin spokesman Peskov again claimed that Ukraine had sought to develop nuclear weapons.",r,D
+2022-03-22 00:00:00,"However, when asked whether Putin would use nuclear weapons, he merely referred to Russia’s official doctrine, according to which nuclear weapons could be used only in the event of an “existential threat” to Russia.",r,D
+2022-03-22 00:00:00,"There was no other reasons than the ones mentioned in the doctrine, he stressed.",r,D
+2022-03-22 00:00:00,"Nonetheless, he avoided a definitive answer on whether Russia was considering using nuclear weapons in the current situation.",r,D
+2022-03-22 00:00:00,"111 On the same day, Sergey Ryabkov toed this line.",r,D
+2022-03-22 00:00:00,“The question of potential use of [Russia’s] military nuclear potential [was] completely tied to the corresponding clauses of the Russian military doctrine and corresponding points of the basics of state policy on nuclear deterrence”.,r,D
+2022-03-22 00:00:00,Russia had “an extremely responsible approach to this matter” and would “never escalate anything.,r,D
+2022-03-23 00:00:00,"The very next day, however, Russian officials again warned of a possible NATO-Russia confrontation should there be a NATO peacekeeping mission in Ukraine.",r,W
+2022-03-23 00:00:00,"This “would be a very reckless and extremely dangerous decision,” Peskov explained.",r,W
+2022-03-23 00:00:00,"Any possible contact between Russian and NATO forces “could have clear consequences that would be hard to repair,” he continued.",r,W
+2022-03-23 00:00:00,"113 Lavrov expressed similar sentiments: “This would be the direct clash between the Russian and NATO armed forces that everyone has not only tried to avoid but said should not take place in principle,” the Russian minister concluded.",r,W
+2022-03-23 00:00:00,"114 Later, on March 23, Medvedev said the United States had conspired to destroy Russia as part of a “primitive game” since the 1991 fall of the Soviet Union.",r,W
+2022-03-23 00:00:00,"The Kremlin would never allow the destruction of Russia, he added, but warned Washington that if it did achieve what he characterized as its destructive aims, then the world could face a dystopian crisis that would end in a “big nuclear explosion”.",r,W
+2022-03-23 00:00:00,Russia’s destruction could lead to an unstable leadership in Moscow “with a maximum number of nuclear weapons aimed at targets in the United States and Europe”.,r,W
+2022-03-23 00:00:00,"115 Dmitry Rogozin, the head of the state aerospace corporation, Roscosmos, said that Russia’s nuclear arsenal would help deter the West from intervening in Ukraine.",r,W
+2022-03-23 00:00:00,Russia was “capable of physically destroying any aggressor or any aggressor group within minutes at any distance”.,r,W
+2022-03-23 00:00:00,"On the same day, on March 23, US media reports suggested a marked hardening in US rhetoric regarding a potential Russian nuclear use.",w,E
+2022-03-23 00:00:00,"According to a Biden administration official, the US president “remained adamant about keeping American forces out of Ukraine”.",w,E
+2022-03-23 00:00:00,"Yet “it would be misguided not to closely examine the thresholds, if any, under which the president would reverse himself”.",w,E
+2022-03-23 00:00:00,"Even the use of sub-strategic nuclear weapons inside Ukraine “would mean that ‘all bets are off’ on the United States and NATO staying out of the war,” a senior official reportedly said.",w,E
+2022-03-23 00:00:00,"Similarly, Democratic Senator and Armed Services Committee Chairman Jack Reed also suggested that a Russian attack with chemical, biological, or nuclear weapons of mass destruction in Ukraine would have “consequences”.",w,E
+2022-03-23 00:00:00,"A nuclear attack inside Ukraine could even “be considered an attack on a NATO member,” if nuclear radiation were to be blown into a NATO state, he reportedly added.",w,E
+2022-03-23 00:00:00,"However, according to US officials, the Biden administration so far considered the likelihood of a nuclear attack to be low.",w,E
+2022-03-23 00:00:00,"Neither the US nor NATO had observed any military actions indicating Russia was preparing a nuclear strike, said a senior official.",w,E
+2022-03-23 00:00:00,"“We haven’t seen anything that’s made us adjust our posture, our nuclear posture,” National Security Advisor Jake Sullivan also confirmed.",w,E
+2022-03-23 00:00:00,France appeared similarly undaunted by Russia’s threats.,w,W
+2022-03-23 00:00:00,"Notwithstanding the level of tensions, the French Defense Ministry announced on March 23 that it had conducted a test of a nuclear-armed air-launched missile as planned.",w,W
+2022-03-23 00:00:00,"118 According to later media reports, the French armed forces also deployed three of their four nuclear submarines around the same time.",w,W
+2022-03-23 00:00:00,French experts suggested this was done to protect the submarines from a potential Russian nuclear strike on French naval bases,w,W
+2022-03-23 00:00:00,"Echoing earlier statements from US officials, Stoltenberg also declared that “any use of nuclear weapons” would “fundamentally change the nature of the conflict”.",w,W
+2022-03-23 00:00:00,"Similarly, any chemical weapons use would be “absolutely unacceptable,” “a blatant violation of international law” with “severe consequences,” and would “fundamentally change the nature of the conflict”.",w,W
+2022-03-23 00:00:00,Any use of chemical weapons would be “absolutely unacceptable”.,w,W
+2022-03-23 00:00:00,"120 On the following day, Biden echoed this sentiment, stating that a Russian use of chemical weapons “would trigger a response in kind",w,W
+2022-03-26 00:00:00,"On March 26, Medvedev once again emphasized the expansive nature of Russia’s nuclear doctrine.",r,W
+2022-03-26 00:00:00,"According to its own “special document on nuclear deterrence,” Moscow was “entitled” to use nuclear weapons in four instances.",r,W
+2022-03-26 00:00:00,"The fourth case was when “an act of aggression” was “committed against Russia and its allies, which jeopardized the existence of the country itself, even without the use of nuclear weapons, that is, with the use of conventional weapons”.",r,W
+2022-03-26 00:00:00,"The Russian government possessed a “determination to defend the independence, sovereignty of our country, not to give anyone a reason to doubt even the slightest that we are ready to give a worthy response to any infringement on our country, on its independence”.",r,W
+2022-03-28 00:00:00,Biden’s controversial remarks did not result in an escalation of Russian nuclear rhetoric.,r,D
+2022-03-28 00:00:00,"On March 28, Kremlin spokesperson Peskov did emphasize that Biden’s statements about Putin were “alarming,” a “personal insult” and “unacceptable”.",r,D
+2022-03-28 00:00:00,"“It’s not for the United States’ president to decide who is going to be and who is the president of Russia, it is the people of Russia who decide it during elections,” he explained.",r,D
+2022-03-28 00:00:00,"However, in the same interview Peskov also clarified and revised previous nuclear threats, citing Russian doctrine.",r,D
+2022-03-28 00:00:00,"“Any outcome” of Russia’s operation in Ukraine “of course, is not a reason for usage of a nuclear weapon,” he said.",r,D
+2022-03-28 00:00:00,"Russia, he said, had a security concept that “very clearly states that only when there is a threat for the existence of the state in our country, we can use and we will actually use nuclear weapons to eliminate the threat for the existence of our country”.",r,D
+2022-03-28 00:00:00,“Let’s keep these two things separate ...,r,D
+2022-03-28 00:00:00,"the existence of the state and the special military operation in Ukraine,” Peskov said.",r,D
+2022-03-28 00:00:00,“They have nothing to do with each other”.,r,D
+2022-03-28 00:00:00,"Nevertheless, the Kremlin spokesman also recalled “the initial statement of [Putin] … when he ordered the operation on the 24th February,” in which he warned various states “not to interfere in affairs between Ukraine and Russia during this operation”.",r,D
+2022-03-28 00:00:00,"“Everyone understands what he meant [by that],” Peskov declared.",r,D
+2022-03-28 00:00:00,"When asked if that meant Putin would use nuclear weapons if a third country intervened in Ukraine, he said, “I don’t think so,” although Putin had made it clear that no one should interfere.",r,D
+2022-03-28 00:00:00,"If anyone did, Peskov explained, Russia had “all the possibilities to prevent that and punish all those who are going to interfere”.",r,D
+2022-03-28 00:00:00,"However, “no one is thinking about using, not even about the idea of using a nuclear weapon”.",r,D
+2022-03-28 00:00:00,"Asked about a scenario in which Russia might send troops to or bomb a NATO country, Peskov remained cautious: “If it’s not a reciprocal act, so if they don’t make us do that, we cannot think about that and we do not want to think about that”.",r,D
+2022-03-31 00:00:00,"Against this background, US intelligence officials concluded Russia was not doing anything to prepare for using nuclear weapons.",w,D
+2022-03-31 00:00:00,There had not been “any activity by the Russians that would change [the US] assessment or ...,w,D
+2022-03-31 00:00:00,"strategic deterrence posture,” a senior US Pentagon official stated in a March 31 briefing.",w,D
+2022-03-31 00:00:00,There was “no indication at this time that [Russia is] preparing to use those kinds of weapons”.,w,D
+2022-03-31 00:00:00,1,w,D
+2022-04-01 00:00:00,"Nevertheless, the US military took no chances and on April 1 canceled the initially postponed test of a Minuteman III intercontinental ballistic missile.",w,D
+2022-04-01 00:00:00,"According to US Air Force spokeswoman Ann Stefanek, this decision “was due to the same reasons as when it had been first delayed”.",w,D
+2022-04-01 00:00:00,"The Air Force was “confident in the readiness of the strategic forces of the United States,” Stefanek stressed.",w,D
+2022-04-01 00:00:00,"147 On the same day, a US defense official acknowledged that Washington had also kept a successful hypersonic missile test from mid-March under wraps to prevent further escalation with Russia",w,D
+2022-04-07 00:00:00,The German government was not alone to worry about a potential escalation.,w,W
+2022-04-07 00:00:00,"Indeed on April 7, the foreign ministers of the G7 countries and EU Foreign Affairs Representative Borrell adopted a statement warning against “any threat or use of chemical, biological or nuclear weapons”.",w,W
+2022-04-07 00:00:00,They reminded Russia of its “obligations under international treaties” and stressed that “any use by Russia of such a weapon would be unacceptable and result in severe consequences”.,w,W
+2022-04-14 00:00:00,"More Russian warnings occurred on April 14, as Medvedev once again pointed out the risks of Sweden and Finland joining NATO, which would “more than double” “the length of the alliance’s land borders with Russia”.",r,W
+2022-04-14 00:00:00,"Consequently, these borders would “have to be strengthened” and “no non-nuclear status of the Baltics [would] be possible”.",r,W
+2022-04-14 00:00:00,"Hence: “The balance must be restored,” stressed Medvedev.",r,W
+2022-04-14 00:00:00,"Specifically, this would mean “considerable” naval, ground and air defense forces, “increased tensions along the borders, Iskanders, hypersonic weapons, and nuclear-armed ships ...",r,W
+2022-04-14 00:00:00,"at arm’s length” from Sweden and Finland, he elaborated.",r,W
+2022-04-14 00:00:00,“No sane person” could want this.,r,W
+2022-04-14 00:00:00,"Meanwhile on the same day, April 14, Central Intelligence Agency (CIA) Director William Burns put into perspective nuclear escalation concerns.",w,D
+2022-04-14 00:00:00,"Asked about his agency’s risk assessment of a possible use of tactical nuclear weapons, he explained that though the situation had to be taken seriously, no “practical evidence” indicated Russian preparations for such a scenario.",w,D
+2022-04-14 00:00:00,"President Biden is deeply concerned about avoiding a third world war, about avoiding a threshold in which ...",w,D
+2022-04-14 00:00:00,nuclear conflict becomes possible.,w,D
+2022-04-14 00:00:00,...,w,D
+2022-04-14 00:00:00,Russian military doctrine holds that you could escalate to de-escalate.,w,D
+2022-04-14 00:00:00,...,w,D
+2022-04-14 00:00:00,Some Russian leaders have talked about a circumstance in which … NATO would intervene militarily on the ground in Ukraine.,w,D
+2022-04-14 00:00:00,...,w,D
+2022-04-14 00:00:00,"That’s not something, as President Biden has made very clear, that’s in the cards, but … given the potential desperation of President Putin and the Russian leadership, given the setbacks that they’ve faced so far militarily, none of us can take lightly the threat posed by a potential resort to tactical nuclear weapons or low-yield nuclear weapons.",w,D
+2022-04-14 00:00:00,"… While we’ve seen some rhetorical posturing on the part of the Kremlin about moving to higher nuclear alert levels, so far we haven’t seen a lot of practical evidence of the kind of deployments or … military dispositions that would … reinforce that concern.",w,D
+2022-04-14 00:00:00,But we watch for that very intently.,w,D
+2022-04-14 00:00:00,2,w,D
+2022-04-19 00:00:00,"On April 19, Pentagon spokesperson Kirby further qualified escalation concerns.",w,D
+2022-04-19 00:00:00,"Aside from Putin’s initial nuclear threats, there had been little comparable rhetoric since.",w,D
+2022-04-19 00:00:00,"Consequently, he explained, Washington was “actively monitoring [this] every single day,” but remained “comfortable” that it had “an appropriate strategic deterrent posture in place and there [was] no need to make any changes to it”.",w,D
+2022-04-19 00:00:00,Continued Western military assistance to Ukraine did not have a direct impact on Russian rhetoric.,r,D
+2022-04-19 00:00:00,"On April 19, Lavrov merely repeated previously voiced complaints about the West and Ukraine.",r,D
+2022-04-19 00:00:00,"Asked whether Russia was considering to use tactical nuclear weapons, he pointed out that Moscow had initiated both the June 2021 Putin-Biden statement and the January 2022 P5 declaration that a nuclear war could not be won and must never be fought.",r,D
+2022-04-19 00:00:00,"However, he refused to comment on Zelenskyy’s warning about a potential Russian use of nuclear weapons.",r,D
+2022-04-20 00:00:00,"On April 20, Putin announced the successful test of a new nuclear-capable Sarmat intercontinental ballistic missile.",r,W
+2022-04-20 00:00:00,"This, he said, was “a great and landmark event in the development of advanced weapon systems in the Russian army”.",r,W
+2022-04-20 00:00:00,"There was “no” comparable system “in the world” and there would not be any “for a long time to come,” Putin claimed.",r,W
+2022-04-20 00:00:00,"“This truly unique weapon will bolster the combat capabilities of our Armed Forces, … reliably safeguard Russia’s security from external threats and … make those who in the frenzy of rabid and aggressive rhetoric are trying to threaten our country think twice,” he added.",r,W
+2022-04-20 00:00:00,"217 Per the Russian Defense Ministry, however, the missile was still in a “testing program” and would only become part of the Russian armed forces’ arsenal “after [its] completion”.",r,W
+2022-04-20 00:00:00,"In any case, the Pentagon appeared unimpressed by the test.",w,D
+2022-04-20 00:00:00,"219 Russia had “properly notified the United States under its New START treaty obligations that it planned to test this ICBM,” read a statement by Press Secretary Kirby.",w,D
+2022-04-20 00:00:00,Such tests were “routine” and “not a surprise”.,w,D
+2022-04-20 00:00:00,"Consequently, Washington did “not deem the test to be a threat to the United States or its allies”.",w,D
+2022-04-25 00:00:00,"Austin went further, declaring that the United States now wanted “to see Russia weakened to the degree that it can’t do the kinds of things that it has done in invading Ukraine,” a statement some observers interpreted as an expansion of NATO’s goals.",w,E
+2022-04-25 00:00:00,"In a lengthy April 25 interview, Lavrov somewhat dialed back previous nuclear threats.",r,W
+2022-04-25 00:00:00,"Although there was a real danger of nuclear war, Russia continued to stand behind the principle of the January 2022 P5 statement that nuclear war was inadmissible, he explained.",r,W
+2022-04-25 00:00:00,All five [UN Security Council] leaders signed the declaration on the inadmissibility of nuclear war.,r,W
+2022-04-25 00:00:00,This is our principled position.,r,W
+2022-04-25 00:00:00,...,r,W
+2022-04-25 00:00:00,Now the risks are very significant.,r,W
+2022-04-25 00:00:00,I don’t want to artificially inflate these risks.,r,W
+2022-04-25 00:00:00,...,r,W
+2022-04-25 00:00:00,"The danger is serious, real.",r,W
+2022-04-25 00:00:00,It cannot be underestimated.,r,W
+2022-04-25 00:00:00,"During the Cuban Missile Crisis, there were not many “written” rules.",r,W
+2022-04-25 00:00:00,But the rules of conduct were clear enough.,r,W
+2022-04-25 00:00:00,Moscow understood how Washington behaved.,r,W
+2022-04-25 00:00:00,Washington understood how Moscow behaved.,r,W
+2022-04-25 00:00:00,Now there are few rules.,r,W
+2022-04-25 00:00:00,...,r,W
+2022-04-25 00:00:00,"At the same time, the other instruments of arms control and non-proliferation have been practically destroyed.",r,W
+2022-04-25 00:00:00,...,r,W
+2022-04-25 00:00:00,The United States rejected almost all contacts because we were forced to defend the Russians in Ukraine.,r,W
+2022-04-25 00:00:00,"229 Moreover, Lavrov complained that arms deliveries to Kyiv were “pouring oil on the fire”.",r,W
+2022-04-25 00:00:00,The countries involved wanted to “force the Ukrainians to fight with Russia to the last soldier”.,r,W
+2022-04-25 00:00:00,"Like this, they hoped, this conflict would drag on “longer, so that Russia … would suffer more and more,” Lavrov declared, emphasizing that these Western supplied weapons would “be a legitimate target for Russian forces”.",r,W
+2022-04-25 00:00:00,"“Warehouses, including in the west of Ukraine, have become such a target more than once,” he stressed.",r,W
+2022-04-25 00:00:00,“How else?,r,W
+2022-04-25 00:00:00,"NATO is essentially going to war with Russia through a proxy and arming that proxy,” added Lavrov",r,W
+2022-04-26 00:00:00,"Boris Johnson made similar comments, explaining that he did not see a risk of Moscow using nuclear weapons, even if the Russian military experienced further defeats.",w,D
+2022-04-26 00:00:00,"“Given the massive Russian backing for what [Putin] is doing, given the apparent obliviousness of the Russian media about what is really happening in Ukraine, the paradox is that Putin has far more political space to back down, to withdraw,” explained Johnson.",w,D
+2022-04-26 00:00:00,"232 His Minister of the Armed Forces James Heappey added, Lavrov’s nuclear allusions were the “sort of bravado” that had been his “trademark over the course of 15 years or so”.",w,D
+2022-04-26 00:00:00,"There was no “imminent risk of escalation,” Heappey stressed.",w,D
+2022-04-26 00:00:00,"“What the West is doing to support its allies in Ukraine is very well calibrated,” though “it suits the Kremlin's narrative to claim that they are somehow in a confrontation with NATO,” he added.",w,D
+2022-04-26 00:00:00,233 The risk of nuclear war was “vanishingly small”.,w,D
+2022-04-26 00:00:00,234 Nor did Heappey see any particular risk of escalation should British weapons be used against targets in Russia.,w,D
+2022-04-26 00:00:00,"“There are lots of countries around the world that operate kit that they have imported from other countries; when those bits of kit are used we tend not to blame the country that manufactured it, you blame the country that fired it,” he explained",w,D
+2022-04-27 00:00:00,"In an April 27 briefing, Pentagon spokesperson Kirby condemned Russian nuclear rhetoric, including Lavrov’s recent remarks, as “irresponsible,” but refused to speculate on a potential Russian nuclear use.",w,E
+2022-04-27 00:00:00,Raising the specter of nuclear confrontation is irresponsible.,w,E
+2022-04-27 00:00:00,It's certainly not what you would expect from a modern nuclear power...,w,E
+2022-04-27 00:00:00,"Certainly, nobody wants to see, or nobody should want to see it escalate into the nuclear realm.",w,E
+2022-04-27 00:00:00,And there's no reason that it should.,w,E
+2022-04-27 00:00:00,"Mr. Putin can do the right thing right now by ending the war, moving his forces out of Ukraine, sitting down in good faith with President Zelensky and coming up with a negotiated settlement..",w,E
+2022-04-27 00:00:00,...,w,E
+2022-04-27 00:00:00,"I'm not going to again, speculate here about what Russia may or may not do with [tactical nuclear weapons] or any other system.",w,E
+2022-04-27 00:00:00,...,w,E
+2022-04-27 00:00:00,"we’re monitoring [the nuclear threats] every single day as best, we can.",w,E
+2022-04-27 00:00:00,And we continue to see nothing that gives us cause to change our strategic nuclear deterrent posture.,w,E
+2022-04-27 00:00:00,"And we're confident that in our ability to defend the homeland from that perspective, as well as our allies and partners.",w,E
+2022-04-27 00:00:00,"In addition, Kirby confirmed Austin’s earlier statement that Washington did “[not] want to see Russia in a position to be able to do [something like the invasion of Ukraine] again”.",w,E
+2022-04-27 00:00:00,Instead it wanted “to see Ukraine win” and “able to defend itself”.,w,E
+2022-04-27 00:00:00,"Russia should not be allowed to remain “in a position going forward, where they haven't suffered consequences for this unprovoked invasion,” Kirby stressed.",w,E
+2022-04-27 00:00:00,"On the same day, Putin issued another veiled nuclear threat, warning third parties against interfering in the war in Ukraine.",r,E
+2022-04-27 00:00:00,This would trigger an immediate reaction.,r,E
+2022-04-27 00:00:00,"If someone intends to intervene on what is happening from the outside and creates unacceptable strategic threats for us, then they should know that our response to oncoming strikes will be swift, lightning fast.",r,E
+2022-04-27 00:00:00,"We have all the tools for this, ones that no one can brag about, and we won’t brag–we will use them if needed–and I want everyone to know this.",r,E
+2022-04-27 00:00:00,All the decisions have been made in this regard,r,E
+2022-04-28 00:00:00,"The following day, on April 28, US Ambassador to Russia John Sullivan showed himself and Washington undeterred by this renewed Russian threat making, instead confirming the new broader US goals in the war as laid out by previous US statements.",w,W
+2022-04-28 00:00:00,"Accordingly, Washington would “do all” it could to ensure that the Russian decision to invade was “a strategic defeat for [Putin] and his government, and not a victory for him in Ukraine”.",w,W
+2022-04-28 00:00:00,"While Russia’s nuclear rhetoric was not new, it had recently escalated in “a dramatically irresponsible way,” noted Sullivan.",w,W
+2022-04-28 00:00:00,Washington by contrast was not engaging in “irresponsible rhetoric with respect to nuclear weapons” and was “prepared to deter nuclear aggression against the United States”.,w,W
+2022-04-28 00:00:00,"Hence: “We won’t succumb to nuclear blackmail,” nor “tolerate nuclear saber rattling and nuclear brinksmanship,” Sullivan concluded",w,W
+2022-04-28 00:00:00,"In parallel, also on April 28, Biden however appeared to implicitly acknowledge Russian concerns over external interference in Ukraine.",w,W
+2022-04-28 00:00:00,"Even before the war he had “made clear” that Washington would “[not] send US troops to fight Russian troops in Ukraine, but ...",w,W
+2022-04-28 00:00:00,"would provide robust military assistance” and “try to unify the Western world against Russia’s aggression,” he explained.",w,W
+2022-04-28 00:00:00,"“Despite the disturbing rhetoric coming out of the Kremlin, the facts are plain for everybody to see,” Biden declared.",w,W
+2022-04-28 00:00:00,"“We’re not attacking Russia; we’re helping Ukraine defend itself against Russian aggression,” including with significant intelligence and military assistance.",w,W
+2022-04-28 00:00:00,"Yet, Biden rejected Russian claims that the war in Ukraine was a “life-or-death struggle” and a RussiaNATO “proxy war”.",w,W
+2022-04-28 00:00:00,"These statements were concerning, explained Biden, because they showed “the desperation that Russia is feeling about their abject failure in being able to do what they set out to do in the first instance”.",w,W
+2022-04-28 00:00:00,"Instead of saying that the … Ukrainians, equipped with some capability to resist Russian forces, are … [causing Moscow’s military failures in Ukraine], they’ve got to … tell their people the United States and all of NATO is engaged … in taking out Russian troops and tanks.",w,W
+2022-04-28 00:00:00,… It’s an excuse for their failure.,w,W
+2022-04-28 00:00:00,But …no one should be making idle comments about the use of nuclear weapons.,w,W
+2022-04-28 00:00:00,… It’s irresponsible.,w,W
+2022-04-28 00:00:00,"Asked whether he was concerned that Russia might start acting as if it was engaged in a proxy war with Washington, Biden said the United States was “prepared for whatever they do”.",w,W
+2022-04-28 00:00:00,"However, the United States would only send military assistance, not troops, to Ukraine.",w,W
+2022-04-29 00:00:00,"The same day, April 29, Lavrov qualified his earlier statements about the risks of nuclear war.",r,D
+2022-04-29 00:00:00,His words had been taken out of context.,r,D
+2022-04-29 00:00:00,"In fact, he had stressed that Russia had been “champions of making pledges by all nuclear countries never to start a nuclear war” and had repeatedly insisted on such a declaration with other nuclear powers.",r,D
+2022-04-29 00:00:00,"Lavrov meant the declarations by Russia and the United States, as well as by the P5 states, that a nuclear war could not be won, which he claimed had grown out of Moscow’s initiative.",r,D
+2022-04-29 00:00:00,"Referring to a statement by Polish Prime Minister Mateusz Morawiecki that Warsaw would “welcome” a deployment of US nuclear weapons to Poland, Lavrov declared that it was Western states, like Poland and Ukraine, that were using dangerous nuclear rhetoric.",r,D
+2022-04-29 00:00:00,We never were playing with such dangerous [nuclear rhetoric].,r,D
+2022-04-29 00:00:00,...,r,D
+2022-04-29 00:00:00,"We should all insist on the statements made by the P5, never ever there could be a nuclear war.",r,D
+2022-04-29 00:00:00,"But to make sure that this is the case, the West must discipline speakers like our Ukrainian and Polish colleagues who see no danger in playing with such very, very risky words.",r,D
+2022-04-29 00:00:00,"In addition, Lavrov clarified that Russia did not see itself at war with NATO, but that Western arms deliveries were a legitimate military target for Russian forces once they reached Ukrainian territory.",r,D
+2022-04-29 00:00:00,We do not see ourselves at war with NATO because this is exactly another step … to increase the risks of what we just discussed.,r,D
+2022-04-29 00:00:00,"Unfortunately, NATO it seems considers itself to be at war with Russia.",r,D
+2022-04-29 00:00:00,NATO and the European Union leaders ...,r,D
+2022-04-29 00:00:00,"they bluntly, publicly and persistently say Putin must fail, Russia must be defeated.",r,D
+2022-04-29 00:00:00,...,r,D
+2022-04-29 00:00:00,"As soon as these [Western] weapons are reaching Ukrainian territory, they are fair game for our special operation.",r,D
+2022-04-29 00:00:00,"246 Lavrov made similar remarks again on May 1, claiming that his nuclear statements had been misrepresented by Western media.",r,D
+2022-04-29 00:00:00,The Western mass media and Western politicians misrepresent what Russian institutions say.,r,D
+2022-04-29 00:00:00,"When they talk about [nuclear] threats and ask me how real these threats are, I always answer like this: Russia has never stopped making agreements that will ensure that war will not emerge.",r,D
+2022-04-29 00:00:00,We proposed to our American colleagues to repeat what Gorbachev and Reagan had said in 1987 and to accept a declaration confirming that a nuclear war would have no winners.,r,D
+2022-04-29 00:00:00,"We could not convince the Trump administration, but the Biden administration agreed.",r,D
+2022-04-29 00:00:00,"And in 2021 in Geneva, Putin and Biden accepted that declaration on our initiative.",r,D
+2022-04-29 00:00:00,"There was also a proposal by Putin to convene a summit of the five permanent members of the UN Security Council, but the United States and Britain put the brakes on it",r,D
+2022-05-04 00:00:00,"Also on May 4, the Russian defense ministry announced it had simulated nuclear strikes in Kaliningrad.",r,W
+2022-05-04 00:00:00,"Around 100 Russian servicemen practiced “electronic launches” of nuclear-capable Iskander mobile ballistic missile systems, also carrying out a maneuver to change their position in order to avoid “a possible retaliatory strike,” the ministry added.",r,W
+2022-05-04 00:00:00,"251 It remained unclear, whether this was just a routine exercise, or whether it involved any political signaling.",r,W
+2022-05-05 00:00:00,Russian officials nonetheless continued to march back Putin’s nuclear narratives.,r,D
+2022-05-05 00:00:00,"On May 5, Russian Ambassador to the US Anatoly Antonov explained that nuclear weapons could only “be used in response to the use of WMD against Russia and its allies, or in the event of aggression against our country, when the very existence of the state is jeopardized”.",r,D
+2022-05-05 00:00:00,The decision to raise the alert level of Russia’s deterrent forces had been “misinterpreted” by the West.,r,D
+2022-05-05 00:00:00,"As had been explained by Shoigu, the alert had been “only about the work shifts of strategic forces commands which began to perform combat duties with reinforced personnel”.",r,D
+2022-05-05 00:00:00,"This meant that Russia had “increased its vigilance against the backdrop of extremely confrontational statements by Western countries, including NATO member states that possess nuclear weapons,” clarified Antonov.",r,D
+2022-05-05 00:00:00,"He concluded: Russia did not “threaten the United States and its European allies, but, on the contrary, is making every effort to prevent the escalation of the Ukrainian crisis.",r,D
+2022-05-05 00:00:00,… We are compelled to warn of the emerging risks associated with the intervention of NATO states into the Russian special military operation”.,r,D
+2022-05-05 00:00:00,"In contrast, the “current generation of NATO politicians clearly does not take the nuclear threat seriously,” Antonov complained, pointing at what he saw as “a flurry of blatant misrepresentation of Russian officials’ statements on our country’s nuclear policy”.",r,D
+2022-05-05 00:00:00,"Moreover, he reiterated claims that Ukraine had intended to obtain nuclear weapons and had a biological weapons program, while criticizing Poland’s openness to host US nuclear weapons.",r,D
+2022-05-05 00:00:00,"Nevertheless, Antonov also highlighted Russia’s interest in reaching “agreements that will guarantee that a catastrophic confrontation will not be unleashed,” pointing to Moscow’s efforts to restate that there could be no winners in a nuclear war with Biden and the other P5 states.",r,D
+2022-05-05 00:00:00,"Further, he stressed the importance of the New START agreement as a “universally recognized gold standard in the sphere of maintaining strategic stability and transparency between the major nuclear powers,” claiming that “Russia has repeatedly drawn the attention of the United States that it is important to continue the joint work on an agreement that could replace New START and accommodate new realities of international security and development of military technologies”.",r,D
+2022-05-05 00:00:00,2,r,D
+2022-05-06 00:00:00,The same narrative was peddled in Moscow.,r,D
+2022-05-06 00:00:00,"On May 6, the Russian Foreign Ministry’s Deputy Spokesman Alexey Zaitsev reaffirmed the fact that Russia would not use nuclear weapons in Ukraine, but would do so only in accordance with the scenarios set out in its nuclear doctrine.",r,D
+2022-05-06 00:00:00,“Scenarios for Russia’s possible use of nuclear weapons are clearly spelled out in Russian doctrine.,r,D
+2022-05-06 00:00:00,"They are not applicable to tasks set in the special military operation in Ukraine,” emphasized Zaitsev.",r,D
+2022-05-06 00:00:00,“Russia adheres to the principle that there can be no winners in a nuclear war and it must not be unleashed”.,r,D
+2022-05-06 00:00:00,"In Washington, former officials emphasized the “game changing” nature of a Russian nuclear employment.",w,W
+2022-05-06 00:00:00,"On May 6, former nuclear policy Pentagon official Leonor Tomero told US outlets that Russian nuclear use would “galvanize the whole world” against Moscow.",w,W
+2022-05-06 00:00:00,"“We should make clear that it would have devastating consequences,” she stressed.",w,W
+2022-05-06 00:00:00,Civilian victims in particular would create a “strong push” for a direct US intervention.,w,W
+2022-05-07 00:00:00,"In Washington, the intelligence community remained cautious.",w,W
+2022-05-07 00:00:00,"On May 7, CIA Director Burns warned that Putin was “in a frame of mind in which he doesn’t believe he can afford to lose”.",w,W
+2022-05-07 00:00:00,"The intelligence community saw no “practical evidence at this point of Russian planning, deployment or even potential use of tactical nuclear weapons”.",w,W
+2022-05-07 00:00:00,"But: “Given the kind of sabre-rattling we’ve heard from the Russian leadership, we can’t take lightly … those possibilities”.",w,W
+2022-05-07 00:00:00,"The current second phase of the war was “at least as risky a phase as that first phase we saw over the first seven or eight weeks of the conflict, and maybe even riskier in some ways too,” he added",w,W
+2022-05-09 00:00:00,Some evidence suggests that Moscow also sought to signal restraint.,r,D
+2022-05-09 00:00:00,"On May 9, Russia celebrated the 77th anniversary of the end of World War II with a Victory Day Parade in Moscow.",r,D
+2022-05-09 00:00:00,"On May 7, media had reported that the Russian Defense Ministry had announced a fly-past maneuver with a Il-80 nuclear-command airplane.",r,D
+2022-05-09 00:00:00,"264 However, this component of the parade was cancelled “due to the weather,” according to Kremlin spokesperson Peskov – although the weather in Moscow was sunny and clear.",r,D
+2022-05-09 00:00:00,"265 In in speech at the military parade, Putin drew parallels between World War II and Russia’s war in Ukraine, and again blamed the West, notably NATO, and the government in Kyiv for the situation.",r,D
+2022-05-09 00:00:00,The Alliance’s expansion had “forced” Russia to launch “a pre-emptive strike at the aggression”.,r,D
+2022-05-09 00:00:00,"Russian soldiers in Ukraine were “defending today what [their] fathers, grandfathers and greatgrandfathers fought for.",r,D
+2022-05-09 00:00:00,"The wellbeing and security of their Motherland was their top priority in life,” said Putin.",r,D
+2022-05-09 00:00:00,"266 And yet, the Russian leader neither mentioned nuclear weapons nor announced a general mobilization, as some observers had expected him to do",r,D
+2022-05-10 00:00:00,The same line was toed in Moscow.,r,D
+2022-05-10 00:00:00,"The next day, May 10, officials again emphasized the official nuclear doctrine.",r,D
+2022-05-10 00:00:00,"Asked if Russia would rule out a pre-emptive tactical nuclear strike on Ukraine, Alexander Grushko, Russia’s Deputy Foreign Minister said that a decision on the possible use of nuclear weapons was clearly set out in Russia’s military doctrine.",r,D
+2022-05-10 00:00:00,"“We have a military doctrine – everything is written there,” Grushko was quoted as saying",r,D
+2022-05-10 00:00:00,"In Washington, US intelligence officials warned that the conflict would be prolonged and escalation remained possible.",w,W
+2022-05-10 00:00:00,"On May 10, Director of National Intelligence Haines provided another intelligence assessment of the ongoing war in a Testimony on Global Threats and National Security for the Senate Armed Services Committee.",w,W
+2022-05-10 00:00:00,Putin was “preparing for prolonged conflict” during which he still intended to “achieve goals beyond the Donbas“ as he “most likely” also judged that Russia had “a greater ability and willingness to endure challenges than his adversaries”.,w,W
+2022-05-10 00:00:00,"Putin was “probably counting on US and EU resolve to weaken,” Haines explained.",w,W
+2022-05-10 00:00:00,"In this context, she dampened hopes of a negotiated solution as long as both sides “believe they can continue to make progress militarily”.",w,W
+2022-05-10 00:00:00,"However, she warned, “Putin faces a mismatch between his ambitions and Russia’s current conventional military capabilities”.",w,W
+2022-05-10 00:00:00,"Therefore, “the next few months could see us moving along a more unpredictable and potentially escalatory trajectory.",w,W
+2022-05-10 00:00:00,"At the very least, … the dichotomy will usher in a period of more ad hoc decision-making in Russia”.",w,W
+2022-05-10 00:00:00,"Current trends increase “the likelihood that President Putin will turn to more drastic means,” including “potentially escalatory military actions,” continued Haines.",w,W
+2022-05-10 00:00:00,"However, Haines interpreted Russia’s nuclear rhetoric as an attempt “to deter the United States and the West from increasing lethal aid to Ukraine and to respond to public comments of the US and NATO Allies that suggest expanded Western goals in the conflict.",w,W
+2022-05-10 00:00:00,"If Putin perceives the United States is ignoring his threats, he may try to signal to Washington the heightened danger of its support to Ukraine by authorizing another large nuclear exercise involving a major dispersal of mobile, intercontinental missiles, heavy bombers, strategic submarines,” she elaborated.",w,W
+2022-05-10 00:00:00,"But: Putin “would only authorize the use of nuclear weapons if he perceived an existential threat to the Russian state or regime,” she noted.",w,W
+2022-05-10 00:00:00,"“That could be the case in the event that he perceives that he is losing the war in Ukraine and that NATO, in effect, is either intervening or about to intervene..",w,W
+2022-05-10 00:00:00,", which would obviously contribute to a perception that he is about to lose the war in Ukraine,” explained Haines.",w,W
+2022-05-10 00:00:00,"She also emphasized that “with tensions this high there’s always an enhanced potential for miscalculation, unintended escalation, which we hope our intelligence can help to mitigate",w,W
+2022-05-12 00:00:00,"From Moscow, Medvedev continued his “cautioning” stance on May 12.",r,W
+2022-05-12 00:00:00,"“NATO countries pumping weapons into Ukraine, training troops to use Western equipment, sending in mercenaries and the exercises of Alliance countries near our borders increase the likelihood of a direct and open conflict between NATO and Russia,” he noted.",r,W
+2022-05-12 00:00:00,"“Such a conflict always has the risk of turning into a full-fledged nuclear war,” Medvedev said.",r,W
+2022-05-12 00:00:00,“This will be a disastrous scenario for everyone,r,W
+2022-05-28 00:00:00,"Meanwhile, despite – or maybe because – of the ongoing conflict, Russia went ahead with the testing of various systems.",r,W
+2022-05-28 00:00:00,"On May 28, it test-launched a nuclear-capable hypersonic Zircon cruise missile, which reached a range of about 1,000km",r,W
+2022-05-29 00:00:00,"Yet, Russian mid-level officials continued to downplay Moscow’s nuclear narratives.",r,D
+2022-05-29 00:00:00,"On May 29, Russia’s ambassador to the United Kingdom Andrey Kelin confirmed that Russia would not use nuclear weapons over Ukraine.",r,D
+2022-05-29 00:00:00,"According to Russian doctrine tactical nuclear weapons were “not used in conflicts like [the one in Ukraine] at all,” he explained.",r,D
+2022-05-29 00:00:00,"As per its “very strict provisions,” tactical nuclear weapons would mainly be used “when the existence of the state is endangered”.",r,D
+2022-05-29 00:00:00,"This had “nothing to do with the current operation,” which remained a “limited conventional operation” as indicated by Russia not increasing the number of its forces in Ukraine, he added.",r,D
+2022-05-31 00:00:00,"Finally, the White House attempted to settle the debate in a very public manner.",w,W
+2022-05-31 00:00:00,"On May 31, President Biden clarified what the US “will and will not do in Ukraine” in an Op-Ed, promising advanced rocket systems to Ukraine but emphasizing that the US would not intervene in the conflict directly.",w,W
+2022-05-31 00:00:00,"Regarding Russia’s nuclear threats, the US President emphasized the lack of concrete Russian steps towards using nuclear weapons.",w,W
+2022-05-31 00:00:00,"Yet, he also confirmed previous leaks suggesting that it was the US position that any use of nuclear weapons would have “severe consequences”.",w,W
+2022-05-31 00:00:00,I’ve decided that we will provide the Ukrainians with more advanced rocket systems and munitions that will enable them to more precisely strike key targets on the battlefield in Ukraine.,w,W
+2022-05-31 00:00:00,… We do not seek a war between NATO and Russia.,w,W
+2022-05-31 00:00:00,"As much as I disagree with Mr. Putin, and find his actions an outrage, the United States will not try to bring about his ouster in Moscow.",w,W
+2022-05-31 00:00:00,"So long as the United States or our allies are not attacked, we will not be directly engaged in this conflict, either by sending American troops to fight in Ukraine or by attacking Russian forces.",w,W
+2022-05-31 00:00:00,We are not encouraging or enabling Ukraine to strike beyond its borders.,w,W
+2022-05-31 00:00:00,We do not want to prolong the war just to inflict pain on Russia.,w,W
+2022-05-31 00:00:00,"… If Russia does not pay a heavy price for its actions, it will send a message to other would-be aggressors that they too can seize territory and subjugate other countries.",w,W
+2022-05-31 00:00:00,It will put the survival of other peaceful democracies at risk.,w,W
+2022-05-31 00:00:00,"And it could mark the end of the rules-based international order and open the door to aggression elsewhere, with catastrophic consequences the world over.",w,W
+2022-05-31 00:00:00,I know many people around the world are concerned about the use of nuclear weapons.,w,W
+2022-05-31 00:00:00,"We currently see no indication that Russia has intent to use nuclear weapons in Ukraine, though Russia’s occasional rhetoric to rattle the nuclear saber is itself dangerous and extremely irresponsible.",w,W
+2022-05-31 00:00:00,Let me be clear: Any use of nuclear weapons in this conflict on any scale would be completely unacceptable to us as well as the rest of the world and would entail severe consequences,w,W
+2022-06-02 00:00:00,"Returning to nuclear issues, on June 2, US President Joe Biden stressed the importance of discussions on the future of arms control, writing: “Our progress must continue beyond the New START extension.",w,D
+2022-06-02 00:00:00,"Even as we rally the world to hold Russia accountable for its brutal and unprovoked war on Ukraine, we must continue to engage Russia on issues of strategic stability.",w,D
+2022-06-02 00:00:00,Today—perhaps more than any other time since the Cold War—we must work to reduce the risk of an arms race or nuclear escalation”.,w,D
+2022-06-03 00:00:00,"On June 3, Medvedev responded to the US decision to provide advanced rocket systems to Ukraine in an interview, emphasizing that attacks on Russian territory could trigger retaliation against countries supplying these weapons.",r,W
+2022-06-03 00:00:00,"“If, God forbid, these weapons are used against Russian territory then our armed forces will have no other choice but to strike decision-making centers,” he stressed.",r,W
+2022-06-03 00:00:00,"“Of course, it needs to be understood that the final decision-making centers in this case, unfortunately, are not located on the territory of Kyiv”.",r,W
+2022-06-03 00:00:00,Medvedev also alluded to the risk of nuclear apocalypse suggesting that “the Horsemen of the Apocalypse are already on their way and all hope now is with Lord God the Almighty,r,W
+2022-06-15 00:00:00,Nuclear narratives on Russian television once again developed their own dynamic.,r,W
+2022-06-15 00:00:00,"On Rossiya-1, Deputy Foreign Minister Sergey Ryabkov said on June 15 that he was certain that the US government and “its military planners” were “characterized by the ideology of a limited nuclear war”.",r,W
+2022-06-15 00:00:00,"“The use of nuclear weapons by the United States due to the crisis in Ukraine will become an irreversible event, Russia rejects the concept of a limited nuclear strike.",r,W
+2022-06-15 00:00:00,"I hope that … the remnants of common sense will allow these politicians, these applicants for the role of world conductors, to refrain from making such decisions”.",r,W
+2022-06-15 00:00:00,"According to Ryabkov, Western countries “are trying to accuse us of allegedly playing some kind of rhetorical game”.",r,W
+2022-06-15 00:00:00,“This is completely untrue.,r,W
+2022-06-15 00:00:00,"These are useless arguments, but we are used to the fact that the West has nothing left but distortion and fakes,” he stressed.",r,W
+2022-06-15 00:00:00,3,r,W
+2022-06-17 00:00:00,"In turn, Moscow’s nuclear rhetoric softened.",r,D
+2022-06-17 00:00:00,"On June 17, when asked about Russia’s nuclear allusions, Putin claimed Moscow was only responding to Western threats.",r,D
+2022-06-17 00:00:00,"“Of course, we can hear such [nuclear] rhetoric.",r,D
+2022-06-17 00:00:00,Where does it come from?,r,D
+2022-06-17 00:00:00,It comes from their own [the West’s] statements.,r,D
+2022-06-17 00:00:00,"One irresponsible politician blurts out something, and another one follows suit at a very high level.",r,D
+2022-06-17 00:00:00,"For example, top foreign ministry officials talk profusely on this subject.",r,D
+2022-06-17 00:00:00,Are we going to keep silent?,r,D
+2022-06-17 00:00:00,We reply accordingly.,r,D
+2022-06-17 00:00:00,"Following our reply, they start finding fault with us and saying that Russia is making threats.",r,D
+2022-06-17 00:00:00,We are not threatening anyone.,r,D
+2022-06-17 00:00:00,"However, everyone should know what resources we have, and what we will use, if need be, to defend our sovereignty.",r,D
+2022-06-17 00:00:00,This is an obvious thing”.,r,D
+2022-06-17 00:00:00,US officials also appeared less concerned with the dangers of nuclear escalation.,w,W
+2022-06-17 00:00:00,"Hence, on June 17, US Strategic Command announced that the US military had successfully launched “scheduled missile test flights of four unarmed Trident II (D5LE) missiles … from an Ohio-class ballistic missile submarine off the coast of southern California”.",w,W
+2022-06-25 00:00:00,"In the same vein, on June 25 at a meeting with Belarusian President Lukashenko in St. Petersburg, Putin announced the transfer of nuclear-capable Iskander-M missiles to Belarus, as well as the reequipment of Belarusian SU-35 planes to carry nuclear weapons.",r,E
+2022-06-25 00:00:00,The move was depicted as a reaction to Lithuania’s alleged plan “to stop transit from Russia to Kaliningrad” and to US and NATO exercises with nuclear capable aircraft.,r,E
+2022-06-25 00:00:00,Lukashenko noted that Lithuania’s “plan to stop transit from Russia through Belarus to Kaliningrad” was “akin to declaring some kind of war”.,r,E
+2022-06-25 00:00:00,"When asking for adapting Belarusian aircraft for nuclear use, he was not “talking about what we will transport tomorrow or whether they will transport nuclear weapons,” but he remembered “1941, when we were lulled to sleep,” Lukashenko said.",r,E
+2022-06-25 00:00:00,"Putin answered that Russia was “obliged” to take care of the security of Belarus, and proposed that “the Belarusian army is armed with a fairly large group of Su-25 aircraft, they could be re-equipped accordingly”.",r,E
+2022-06-25 00:00:00,"Hence, “within the next few months we will transfer to Belarus the Iskander-M tactical missile systems, which, as you know, can use both ballistic and cruise missiles, both in conventional and nuclear versions”.",r,E
+2022-06-27 00:00:00,The G7 states immediately responded to Moscow’s decision.,w,W
+2022-06-27 00:00:00,"On June 26-28, G7 leaders and representatives of the European Union met for a Summit in Germany.",w,W
+2022-06-27 00:00:00,"368 During a virtual address at the Summit, Zelenskyy asked for more military assistance and suggested the war should end “before winter sets in”.",w,W
+2022-06-27 00:00:00,"369 In a joint statement of support for Ukraine on June 27, the G7 leaders promised to “continue to provide financial, humanitarian, military and diplomatic support and stand with Ukraine for as long as it takes” and condemned Russian nuclear rhetoric.",w,W
+2022-06-27 00:00:00,The G7 reiterated their “condemnation of Russia’s unjustified use of nuclear rhetoric and signaling”.,w,W
+2022-06-27 00:00:00,"Russia had to “abide by its international commitments, including those which ban the use of chemical, biological or nuclear weapons”.",w,W
+2022-06-27 00:00:00,"The G7 urged “Russia to behave responsibly and exercise restraint, and reiterate that any use of such weapons would be unacceptable and met with severe consequences.",w,W
+2022-06-27 00:00:00,In this regard we express serious concern after the announcement by Russia that it could transfer missiles with nuclear capabilities to Belarus”.,w,W
+2022-06-28 00:00:00,The Russian government denied it was planning to also deploy nuclear weapons to Belarus.,r,D
+2022-06-28 00:00:00,"Responding to the G7’s expression of “serious concern” over the transfer of nuclear-capable missiles to Belarus, on June 28, Kremlin spokesperson Peskov denied the Kremlin was planning to station nuclear weapons in Belarus.",r,D
+2022-06-28 00:00:00,“The president didn’t talk about it.,r,D
+2022-06-28 00:00:00,"He talked about complexes that are technically capable of carrying different types of weapons,” he stressed",r,D
+2022-06-28 00:00:00,"Meanwhile, the US military seemed bent to return to its normal testing pattern for new missiles.",w,W
+2022-06-28 00:00:00,"On June 28, it conducted an unsuccessful hypersonic missile flight test.",w,W
+2022-06-28 00:00:00,"Nevertheless, “the information gathered from this event will provide vital insights,” stressed Pentagon spokesperson Tim Gorman.",w,W
+2022-06-28 00:00:00,"375 “Experiments and tests, both successful and unsuccessful, are the backbone of developing highly complex, critical technologies at tremendous speed,” he stressed in a statement, suggesting also that “delivering hypersonic weapons remains a top priority and the Department remains confident that it is on track to field offensive and defensive hypersonic capabilities on target dates beginning in the early 2020s”.",w,W
+2022-06-28 00:00:00,Russian analyst Alexei Ramm reportedly blamed the failure on the complexity of the tested system.,w,W
+2022-06-28 00:00:00,3,w,W
+2022-07-06 00:00:00,"Against this background, Medvedev once again alluded to Russia’s nuclear capability.",r,W
+2022-07-06 00:00:00,"Referring to calls “to create tribunals or courts for a so-called investigation of Russia’s actions,” he suggested on July 6 that “the idea of punishing a country that has one of the largest nuclear potential is absurd.",r,W
+2022-07-06 00:00:00,And potentially poses a threat to the existence of humanity.,r,W
+2022-07-07 00:00:00,"However, another Russian official again played down Moscow’s nuclear narratives.",r,D
+2022-07-07 00:00:00,"On July 7, Valentina Matvienko, speaker of the Russian Federation Council, stated that it was “unacceptable to even talk about the possibility of a nuclear war at all”.",r,D
+2022-07-07 00:00:00,"“Any sane person, especially a politician and statesman, understands that a nuclear war, if God forbid it happened, generally means the end of human civilization,” she added.",r,D
+2022-07-07 00:00:00,"“Russia views nuclear weapons only as a deterrent,” Matvienko explained.",r,D
+2022-07-07 00:00:00,“We have clearly and strictly prescribed those exceptional cases when it can be used only in response to (God forbid that this never happens) a nuclear attack”.,r,D
+2022-07-07 00:00:00,"Also: “We behave like a civilized country, and we do it openly, we declare this publicly and strictly follow our obligations, and we are doing everything to ensure that nothing like this happen,” she stressed.",r,D
+2022-07-07 00:00:00,"She also referred to alleged Ukrainian attempts to obtain a nuclear weapon, stating that this would be “like giving a grenade to a madman",r,D
+2022-07-12 00:00:00,"The following day, July 12, Russian Foreign Ministry spokesperson Zakharova once again alluded to the risk of nuclear escalation.",r,W
+2022-07-12 00:00:00,"“After provoking an escalation of the Ukrainian crisis and unleashing a violent hybrid confrontation with Russia, Washington and its allies are dangerously teetering on the brink of an open military confrontation with our country, which means a direct armed conflict between nuclear powers.",r,W
+2022-07-12 00:00:00,"Clearly, such a confrontation would be fraught with nuclear escalation,” Zakharova noted.",r,W
+2022-07-12 00:00:00,"At the same time, she denied Russia was threatening the use of nuclear weapons, criticizing a statement by Japanese Prime Minister Fumio Kishida as “anti-Russian”.",r,W
+2022-07-12 00:00:00,"She said: “It is unacceptable to try to distort the logic of deterrence, which is what Russia’s official statements on nuclear issues are based on, for propaganda reasons, as well as to depict us as a country threatening to use nuclear weapons”.",r,W
+2022-07-12 00:00:00,Both Russia and the United States made public advances in missile technology.,r,W
+2022-07-12 00:00:00,"On July 12, the head of Roscosmos Dmitry Rogozin declared that Russia’s Sarmat, “the world’s most powerful nuclear missile with a global range is preparing for new tests and serial production”.",r,W
+2022-07-12 00:00:00,"On the same day, July 12, the US military conducted two successful hypersonic missile test.",w,W
+2022-07-12 00:00:00,4,w,W
+2022-07-20 00:00:00,"Against this background, US military officials noted fighter jets could be supplied, but clarified the restricted nature of nuclear deterrence.",w,D
+2022-07-20 00:00:00,"On the same July 20, US Air Force Chief of Staff Charles Q. Brown declared the United States might be willing provide fighter jets to Kyiv.",w,D
+2022-07-20 00:00:00,"“There’s U.S. [fighter jets], there’s Gripen out of Sweden, there’s the Eurofighter or the Rafale.",w,D
+2022-07-20 00:00:00,"So there’s a number of different platforms that could go to Ukraine,” explained Brown.",w,D
+2022-07-20 00:00:00,"Asked what the United States would do if Putin decided to use a tactical nuclear weapon inside Ukraine, he declared that this was a policy question “for the President to decide”.",w,D
+2022-07-20 00:00:00,The US military’s responsibility was “to provide the President options”.,w,D
+2022-07-20 00:00:00,"Whatever these options might be, “it’s all about deterrence.",w,D
+2022-07-20 00:00:00,"The goal is not to get into a conflict broader than the conflict that’s already going on today and definitely not into a nuclear conflict,” Brown stressed.",w,D
+2022-07-20 00:00:00,"“Because of our strategic deterrence we provide umbrella security with many of our allies and partners and we’ve got to be responsible about how we do that … there’s a range of options that you could do but by the same token there’s a lot of risk,” he explained.",w,D
+2022-07-20 00:00:00,The US government would need to make sure that these options would not lead it down a “slippery slope that we can’t recover from”.,w,D
+2022-07-20 00:00:00,4,w,D
+2022-08-02 00:00:00,"Meanwhile, Russian representatives rejected these accusations.",r,D
+2022-08-02 00:00:00,"Moscow “consistently follows” the NPT’s “letter and spirit,” starting “from the premise that there can be no winners in a nuclear war and it must never be unleashed,” Putin declared on August 1.",r,D
+2022-08-02 00:00:00,"445 In its prepared statement from August 2, Russia argued that the fact that “the international security and strategic stability situation has been deteriorating rapidly” was not its fault.",r,D
+2022-08-02 00:00:00,Moscow had been and remained committed to “freeing the world from the threat posed by WMDs”.,r,D
+2022-08-02 00:00:00,"Russia had been committed to security and stability, but these “positive achievements” had been “devalued” by the “US policy of ignoring Russia’s red lines in the field of security”.",r,D
+2022-08-02 00:00:00,Nuclear powers had to “behave with restraint and responsibility” and Moscow was “strongly convinced that a nuclear war cannot be won and must never be fought”.,r,D
+2022-08-02 00:00:00,"Hence, it would not deploy INF systems where the United States refrained from doing so.",r,D
+2022-08-02 00:00:00,"Also, it had “significantly reduced the role of nuclear weapons in its defense policy, which is purely defensive in nature and is aimed at protecting the sovereignty and territorial integrity of the country”.",r,D
+2022-08-02 00:00:00,"Regarding Ukraine, Russia wanted to “strongly reject all allegations”.",r,D
+2022-08-02 00:00:00,The Ukrainian “regime” had come to power “as a result of a coup” and persecuted the Russian-speaking population.,r,D
+2022-08-02 00:00:00,"For eight years, “Ukrainian nationalists were killing civilians on this territory with near impunity and preparing a large-scale military invasion of the republics that, in fact, broke away from Ukraine”.",r,D
+2022-08-02 00:00:00,"446 Subsequently, the Russian delegation also took the floor in a right of reply to talk about the nuclear dimension of the Ukraine crisis.",r,D
+2022-08-02 00:00:00,"First, Moscow stated that it was fulfilling its obligations with the Budapest Memorandum, including “a commitment not to use or threaten to use nuclear weapons”.",r,D
+2022-08-02 00:00:00,"This was “fully implemented with respect to Ukraine, including in recent months”.",r,D
+2022-08-02 00:00:00,"Second, the Russian delegation underlined the defensive nature of Russia’s nuclear doctrine.",r,D
+2022-08-02 00:00:00,A nuclear reaction would occur “solely as a response to aggression involving weapons of mass destruction” or when a conventional attack threatened “the very existence of the state”.,r,D
+2022-08-02 00:00:00,But: “None of these two hypothetical scenarios is relevant to the situation in Ukraine”.,r,D
+2022-08-02 00:00:00,"Third, the Russians noted that their warning was related to a conflict with NATO potentially leading to nuclear exchanges.",r,D
+2022-08-02 00:00:00,"“Any military confrontation between nuclear rivals must be prevented, since it is fraught with the risk of escalation to the nuclear level,” the argument went.",r,D
+2022-08-02 00:00:00,A NATO intervention in Ukraine “would be able to trigger one of the two emergency scenarios described in our doctrine.,r,D
+2022-08-02 00:00:00,"We obviously stand for preventing this, but if Western countries try to test our resolve, Russia will not back down.",r,D
+2022-08-02 00:00:00,"And this is not the language of threats at all, but a statement of what is possible – such is the logic of deterrence”.",r,D
+2022-08-02 00:00:00,"447 Media reports from August 2 noted that Russian diplomat Alexander Trofimov rejected “utterly unfounded, detached from reality and unacceptable speculations that Russia allegedly threatens to use nuclear weapons, particularly in Ukraine”.",r,D
+2022-08-02 00:00:00,"However, Moscow could decide to use its nuclear arsenal in response to “direct aggression” by NATO countries.",r,D
+2022-08-02 00:00:00,"Yet, Russia would only use nuclear weapons in response to weapons of mass destruction or a conventional weapons attack that threatened the existence of the Russian state.",r,D
+2022-08-02 00:00:00,"“None of these two hypothetical scenarios is relevant to the situation in Ukraine,” the Russian delegate said.",r,D
+2022-08-02 00:00:00,"However, he accused NATO countries of a “fierce hybrid confrontation” against Russia that now “dangerously balances on the edge of open military clash”.",r,D
+2022-08-02 00:00:00,"Such a clash would “be able to trigger one of the two emergency scenarios described in our doctrine,” Trofimov said.",r,D
+2022-08-02 00:00:00,"“We obviously stand for preventing this, but if Western countries try to test our resolve, Russia will not back down”.",r,D
+2022-08-05 00:00:00,"On August 5, Russia reiterated the defensive nature of its nuclear arsenal at the NPT Review Conference.",r,D
+2022-08-05 00:00:00,Moscow was “consistently reducing the place and role of nuclear weapons in its Military Doctrine”.,r,D
+2022-08-05 00:00:00,Russia’s policy was “aimed exclusively at protecting the sovereignty and territorial integrity of the country.,r,D
+2022-08-05 00:00:00,"US officials in turn suggested that the Administration’s declaratory nuclear policy was, to some degree, linked to Russia’s nuclear narratives.",w,W
+2022-08-05 00:00:00,"On the same August 5, Undersecretary of Defense for Policy Colin Kahl gave a briefing at the United Nations on US nuclear policy.",w,W
+2022-08-05 00:00:00,"While “a sole purpose declaratory policy has long been supported by President Biden … the NPR concluded that now is not the time for making that change” in light of, for example, Russia’s nuclear rhetoric, Kahl said",w,W
+2022-08-16 00:00:00,The US military apparently returned to its normal pattern of testing nuclear-capable missiles.,w,W
+2022-08-16 00:00:00,"On August 16, the US Air Force successfully conducted a scheduled test launch of the Minuteman III intercontinental ballistic missile.",w,W
+2022-08-16 00:00:00,4,w,W
+2022-08-16 00:00:00,"On the same August 16, Shoigu again downplayed the nuclear dimension of the conflict.",r,D
+2022-08-16 00:00:00,"He declared that “in Ukraine, Russian military personnel are confronted by the combined forces of the West, who control the leadership of this country in a hybrid war against Russia,” pointing at Western financial assistance, weapons, training and intelligence provided to Kyiv.",r,D
+2022-08-16 00:00:00,"Somewhat cryptically, he also claimed that the “special military operation has dispelled the myth of the 'superweapon' that the West is supplying to Ukraine and which is capable of radically changing the situation at the front”.",r,D
+2022-08-16 00:00:00,These weapons “have not had a significant impact on the situation”.,r,D
+2022-08-16 00:00:00,"Further, he pointed out the “huge loss of personnel of the armed forces and formations of the territorial defense of Ukraine”.",r,D
+2022-08-16 00:00:00,Shoigu also dismissed Western concerns over a potential use of nuclear or chemical weapons as “information provocations” to divert attention from an alleged US biological weapons program in Ukraine.,r,D
+2022-08-16 00:00:00,"“From a military point of view, there is no need to use nuclear weapons in Ukraine to achieve the set goals.",r,D
+2022-08-16 00:00:00,"The main purpose of Russian nuclear weapons is to deter a nuclear attack,” he stressed.",r,D
+2022-08-16 00:00:00,"“Allegations about the possible use of chemical weapons in Ukraine are also absurd,” added Shoigu.",r,D
+2022-08-16 00:00:00,"On arms control, he expressed concern over the “difficult situation” regarding a possible follow-on agreement for the New Start treaty.",r,D
+2022-08-16 00:00:00,"The West’s policy did not “imply the fulfillment of treaty obligations in the traditional sense,” he claimed, and “US statements that Russia must earn the right to continue dialogue with the United States do not hold water.",r,D
+2022-08-16 00:00:00,Arms control is a two-way street”.,r,D
+2022-08-22 00:00:00,De-escalation also appeared to be on Russian minds.,r,D
+2022-08-22 00:00:00,"In an interview on August 22, Russian Deputy Foreign Minister Sergey Ryabkov confirmed a restrictive approach to any potential use of nuclear weapons.",r,D
+2022-08-22 00:00:00,"Referring back to Lavrov’ statement from April 25 that the nuclear risks were real but should not be “inflated,” he noted that “one of the most important tasks … is to maintain adherence by all the nuclear five states to the postulate of the inadmissibility of any war between countries possessing nuclear weapons”.",r,D
+2022-08-22 00:00:00,"In this context he condemned the NATO countries’ “destructive course” to “ignore” Russian “red lines” and “get involved in a confrontation with Russia in Ukraine, balancing on the brink of direct armed conflict”.",r,D
+2022-08-22 00:00:00,"This was “extremely risky” and “fraught with further escalation, up to a military clash of nuclear powers with dire consequences,” he explained.",r,D
+2022-08-22 00:00:00,“This must be prevented”.,r,D
+2022-08-22 00:00:00,"He then also referred to Russian doctrine, which clearly laid down that “Russia hypothetically allows a nuclear response only in response to aggression using WMD against us or our allies, or aggression using conventional weapons, when the very existence of the state is threatened”.",r,D
+2022-08-22 00:00:00,"Hence: The key word in both scenarios is aggression,” meaning that “the use of nuclear weapons by Russia is possible only in response to an attack - for self-defense in emergency circumstances,” he explained.",r,D
+2022-08-22 00:00:00,“There is no place for conjectures or fantasies here”.,r,D
+2022-08-22 00:00:00,"489 Finally, Ryabkov added, Moscow remained “open in principle to serious, pragmatic and result-oriented interaction aimed at reducing tensions and risks, preventing a dangerous escalation and arms race, and strengthening strategic stability, including through arms control”.",r,D
+2022-08-22 00:00:00,The START Treaty “ideally should be replaced by a new agreement or agreements”.,r,D
+2022-08-22 00:00:00,"However, he blamed the United States on the lack of progress in this regard.",r,D
+2022-08-22 00:00:00,The resumption of bilateral strategic talks between Moscow <<<<<<< HEAD and Washington was unlikely due to the latter’s “deliberately destructive course,r,D

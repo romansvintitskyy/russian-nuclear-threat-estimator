@@ -1,0 +1,110 @@
+date,text,side,label
+2022-01-27 00:00:00,"Medvedev: Russia has “the right” to use nuclear weapons in response to an existential threat, which makes it “possible to achieve various goals”.",r,W
+2022-02-07 00:00:00,"Putin: If Ukraine attempts to take back Crimea, European countries will be in conflict with Russia, which is a “leading” nuclear power superior to “many” NATO countries in terms of “nuclear force”.",r,E
+2022-02-19 00:00:00,"Yearly nuclear exercise, normally held in autumn.",r,W
+2022-02-22 00:00:00,"Putin: Ukraine is seeking to acquire tactical nuclear weapons, which would pose a “strategic threat” to Russia.",r,W
+2022-02-24 00:00:00,Putin: Whoever tries to hinder Russia will face consequences “never seen” in history.,r,E
+2022-02-24 00:00:00,Putin: Russia is “one of the most powerful nuclear states” and “there should be no doubt for anyone” that a direct attack on Russia would lead to defeat.,r,W
+2022-02-24 00:00:00,"Biden: No US troops involved in the conflict, only to defend NATO.",w,D
+2022-02-24 00:00:00,Le Drian: NATO also has nuclear weapons.,w,W
+2022-02-26 00:00:00,Western states decide to only impose economic sanctions upon Russia and deliver military support for Ukraine.,w,D
+2022-02-27 00:00:00,Truss: Russia must be stopped in Ukraine.,w,E
+2022-02-27 00:00:00,Putin: Russian deterrence forces will be placed on “high combat alert”.,r,E
+2022-02-28 00:00:00,Shoigu: High combat alert = more personnel.,r,W
+2022-02-28 00:00:00,"Psaki: Announces additional support for Ukraine, but the United States can defend itself.",w,D
+2022-02-27 00:00:00,"Borrell: Financial aid to Ukraine, but also military jets (MiGs).",w,W
+2022-02-28 00:00:00,US warning to Russia against using tactical nuclear weapons.,w,E
+2022-02-28 00:00:00,Zakharova: United States dreams of deploying nuclear weapons to Ukraine.,r,E
+2022-03-01 00:00:00,Russian military exercises with nuclear submarines in the Barents Sea and with mobile ICBMs in Siberia.,r,W
+2022-02-28 00:00:00,Biden: US citizens have no reason to be afraid of nuclear war.,w,D
+2022-02-28 00:00:00,"US forces will not fight in Ukraine, only defend NATO.",w,D
+2022-03-02 00:00:00,"Poland, Slovakia, Bulgaria, NATO will not send MiGs to Ukraine.",w,D
+2022-03-02 00:00:00,United States reschedules Minuteman III test.,w,D
+2022-03-03 00:00:00,"Lavrov: Thought of nuclear war is on Western, not Russian minds.",r,D
+2022-03-03 00:00:00,Zakharova: Russia will not use nuclear weapons first.,r,D
+2022-03-04 00:00:00,NATO foreign ministers reject the no fly zone requested by Ukraine.,w,D
+2022-03-05 00:00:00,Putin: A no fly zone would have “disastrous consequences”.,r,W
+2022-03-05 00:00:00,And: The decision to put Russia’s deterrence forces on high alert had been necessary because UK Foreign Minister Truss had announced a NATO intervention in Ukraine.,r,W
+2022-03-08 00:00:00,"Haines: No changes of the Russian nuclear posture, Putin wants to deter Western support for Ukraine.",w,D
+2022-03-09 00:00:00,Peskov: MiGs that take off from “any other airfields” on NATO territory would be “an extremely undesirable and potentially dangerous scenario”.,r,W
+2022-03-10 00:00:00,Wolters: MiGs could be “mistaken as escalatory and could result in Russian escalation with NATO”.,w,D
+2022-03-11 00:00:00,"Biden: NATO will be defended, but a direct confrontation with Russia – a third world war – has to be avoided.",w,D
+2022-03-15 00:00:00,Poland demands a NATO peacekeeping mission for Ukraine.,w,W
+2022-03-16 00:00:00,NATO decides not to send peacekeeping troops to Ukraine but to expand economic and military assistance.,w,D
+2022-03-16 00:00:00,"Putin: The West wants to “finish off” Russia, but it will fail.",r,W
+2022-03-19 00:00:00,Use of a conventional Kinzhal missile in Ukraine,r,W
+2022-03-20 00:00:00,Austin: Putin trying to “reestablish some momentum” and the United States can defend itself.,w,D
+2022-03-22 00:00:00,Peskov: Nuclear weapons would only be used in “existential threat”.,r,D
+2022-03-22 00:00:00,Ryabkov: Russia would “never escalate anything”.,r,D
+2022-03-23 00:00:00,Peskov: A NATO mission in Ukraine would be “very reckless and extremely dangerous” and could have “consequences that would be hard to repair”.,r,W
+2022-03-23 00:00:00,Lavrov: Everyone should try to avoid a “direct clash between the Russian and NATO armed forces”.,r,W
+2022-03-23 00:00:00,Medvedev: Russia’s destruction could lead to nuclear war.,r,W
+2022-03-23 00:00:00,Rogozin: Russia could destroy “any aggressor”.,r,W
+2022-03-23 00:00:00,Anonymous Biden administration official: Use of a tactical nuclear weapon in Ukraine would mean “all bets are off” regarding direct US intervention in the war.,w,E
+2022-03-23 00:00:00,But nuclear use remains unlikely.,w,E
+2022-03-23 00:00:00,Sullivan: There have been no Russian preparations,w,E
+2022-03-23 00:00:00,France conducts test of nuclear-armed missile and deploys three of its four nuclear submarines.,w,W
+2022-03-23 00:00:00,Stoltenberg: „Any use of nuclear weapons will fundamentally change the nature of the conflict”.,w,W
+2022-03-26 00:00:00,"Medvedev: Russia could use nuclear weapons if its existence is threatened, even by conventional weapons.",r,W
+2022-03-28 00:00:00,"Peskov: Any outcome of the operation in Ukraine is “of course” not a reason to use nuclear weapons, only an existential threat would be.",r,D
+2022-03-28 00:00:00,But: Everyone understands what Putin meant with his warning “not to interfere”.,r,D
+2022-03-28 00:00:00,And: He does “not think” Putin would use nuclear weapons if a third country intervened in Ukraine.,r,D
+2022-03-28 00:00:00,But: Russia has “all the possibilities” to punish such states.,r,D
+2022-03-28 00:00:00,"But: “No one is thinking about using, even about the idea of using a nuclear weapon”.",r,D
+2022-03-31 00:00:00,Senior Pentagon official: “No indication” Russia is preparing to use tactical nuclear weapons.,w,D
+2022-04-01 00:00:00,Pentagon cancels Minuteman III test.,w,D
+2022-04-07 00:00:00,G7 and Borrell: Any threat or use of nuclear weapons would be “unacceptable and result in severe consequences”.,w,W
+2022-04-14 00:00:00,"Medvedev: If Sweden and Finland join NATO, “no non-nuclear status of the Baltics will be possible”.",r,W
+2022-04-14 00:00:00,"Burns: Putin’s threats must be taken seriously, but so far there are no alarming indications.",w,D
+2022-04-19 00:00:00,"Kirby: Washington is monitoring Russian rhetoric, but confident its strategic deterrent posture remains sufficient.",w,D
+2022-04-19 00:00:00,Lavrov: Russia initiated Putin-Biden and P5 statements that nuclear war cannot be won and must not be fought.,r,D
+2022-04-20 00:00:00,Russia tests nuclear-capable Sarmat intercontinental missile.,r,W
+2022-04-20 00:00:00,Putin: Sarmat will “safeguard Russia’s security from external threats”.,r,W
+2022-04-20 00:00:00,Kirby: Sarmat test was “routine” and Russia “properly notified” the United States.,w,D
+2022-04-25 00:00:00,Austin: United States wants “to see Russia weakened to the degree that it can’t do the kinds of things that it has done in invading Ukraine”.,w,E
+2022-04-25 00:00:00,"Lavrov: The risks of nuclear war are “very significant,” “serious” and “real”.",r,W
+2022-04-25 00:00:00,But: He does not want to “artificially inflate these risks”.,r,W
+2022-04-25 00:00:00,And: It is Russia’s “principled position” that nuclear war is inadmissible.,r,W
+2022-04-25 00:00:00,Western arms deliveries to Ukraine are “pouring oil on the fire”.,r,W
+2022-04-26 00:00:00,Johnson: No risk of Moscow using nuclear weapons.,w,D
+2022-04-27 00:00:00,"Kirby: United States do not want “to see Russia in a position to be able to do this again” and Russia should not be “in a position going forward, where they haven't suffered consequences for this unprovoked invasion”.",w,E
+2022-04-27 00:00:00,"Putin: “If someone intends to intervene on what is happening from the outside and creates unacceptable strategic threats for us, then they should know that our response to oncoming strikes will be swift, lightning fast”.",r,E
+2022-04-27 00:00:00,"And: “We have all the tools for this, ones that no one can brag about”.",r,E
+2022-04-28 00:00:00,"Sullivan: “We won’t succumb to nuclear blackmail,” nor “tolerate nuclear saber rattling and nuclear brinksmanship”.",w,W
+2022-04-28 00:00:00,"Biden: United States is prepared for “whatever” Russia might do, but would send only military assistance, not troops, to Ukraine.",w,W
+2022-04-29 00:00:00,Lavrov: Russian policymakers are “champions of making pledges by all nuclear countries never to start a nuclear war”.,r,D
+2022-05-04 00:00:00,Russia simulates electronic launches of nuclear-capable missiles in Kaliningrad – unclear whether training routine or political signaling.,r,W
+2022-05-05 00:00:00,"Antonov: Russia would only use nuclear weapons defensively, in response to WMD use or when state existence is endangered.",r,D
+2022-05-06 00:00:00,Zaitsev: Nuclear contingencies spelled out in Russia’s nuclear doctrine do not apply to the conflict in Ukraine.,r,D
+2022-05-06 00:00:00,Tomero: Nuclear use would have “devastating consequences” for Russia.,w,W
+2022-05-07 00:00:00,"Burns: No evidence that Russia is planning for nuclear use, but its saber-rattling cannot be taken “lightly”.",w,W
+2022-05-09 00:00:00,The nuclear-capable component of the Victory Day parade is cancelled and Putin makes no nuclear references.,r,D
+2022-05-10 00:00:00,Grushko: official nuclear doctrine drives policy.,r,D
+2022-05-10 00:00:00,Haines: Russia is using nuclear threats to deter Western supply of military aid – Putin would only use nuclear weapons in case of an existential threat.,w,W
+2022-05-10 00:00:00,But: losing the war and/or a NATO intervention could qualify as such.,w,W
+2022-05-12 00:00:00,"Medvedev: NATO aid to Ukraine could lead to an open conflict with Russia, which would risk “full-fledged nuclear war”.",r,W
+2022-05-28 00:00:00,Russia tests a hypersonic Zircon cruise missile.,r,W
+2022-05-29 00:00:00,Kelin: Russia will use nuclear weapons when state existence is threatened.,r,D
+2022-05-29 00:00:00,This has “nothing to do” with a “limited conventional operation”.,r,D
+2022-05-31 00:00:00,Biden: “Any” nuclear use “in this conflict” would be “completely unacceptable” and “entail severe consequences”.,w,W
+2022-06-02 00:00:00,Biden: Signals US readiness to engage Russia on strategic stability to reduce risks of arms race or nuclear escalation.,w,D
+2022-06-03 00:00:00,"Medvedev: Foreign-supplied weapons use against Russia could lead to strike on suppliers, which could lead to nuclear apocalypse.",r,W
+2022-06-15 00:00:00,"Ryabkov: US planners have an “ideology” of “limited nuclear war,” and a US nuclear use would be an “irreversible event”.",r,W
+2022-06-17 00:00:00,Putin: “We are not threatening anyone” but would use “resources” to “defend our sovereignty”.,r,D
+2022-06-17 00:00:00,US tests Trident II missile.,w,W
+2022-06-25 00:00:00,Putin: Announces the transfer of nuclear-capable missiles to Belarus and the re-equipment of its bombers to carry nuclear weapons.,r,E
+2022-06-27 00:00:00,G7 agrees that “any” nuclear use would be “unacceptable and met with severe consequences” – concern after Belarus announcement.,w,W
+2022-06-28 00:00:00,"Peskov: Russia is not planning to deploy nuclear weapons to Belarus, just nuclear-capable delivery vehicles.",r,D
+2022-06-28 00:00:00,US military unsuccessfully tests a hypersonic missile.,w,W
+2022-07-06 00:00:00,"Medvedev: Trying to punish a country with a large nuclear arsenal is “absurd,” could pose a “threat to the existence of humanity”.",r,W
+2022-07-07 00:00:00,"Matvienko: Russia sees nuclear weapons only as a deterrent, “exceptional cases” are “clearly and strictly prescribed”.",r,D
+2022-07-12 00:00:00,Zakharova: Washington is “dangerously teetering on the brink of an open military confrontation” with Moscow – such “direct armed conflict between nuclear powers” would be “fraught with nuclear escalation”.,r,W
+2022-07-12 00:00:00,Rogozin: Russia is preparing tests of Sarmat missiles.,r,W
+2022-07-12 00:00:00,United States conducts two successful hypersonic missile tests.,w,W
+2022-07-20 00:00:00,"Brown: If Putin uses nuclear weapons in Ukraine, US policy is “all about deterrence” and avoiding a “slippery slope that we can’t recover from”.",w,D
+2022-08-02 00:00:00,Restatement of official nuclear doctrine and claim that none of its contingencies is “relevant to the situation in Ukraine”.,r,D
+2022-08-05 00:00:00,Russia’s nuclear policy is “aimed exclusively at protecting the sovereignty and territorial integrity of the country”.,r,D
+2022-08-05 00:00:00,"Kahl: It is “not the time” for a sole purpose declaratory policy, in light of, for instance, Russia’s nuclear rhetoric.",w,W
+2022-08-16 00:00:00,US test launch of the Minuteman III ICBM.,w,W
+2022-08-16 00:00:00,"Shoigu: “From a military point of view, there is no need to use nuclear weapons in Ukraine”.",r,D
+2022-08-22 00:00:00,Ryabkov: Clash between nuclear powers must be prevented.,r,D
