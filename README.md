@@ -1,5 +1,5 @@
 # russian-nuclear-threat-estimator
 
-This respository contains the code we used for our final project. We use Google Colab to process our data and to train our models. 
+This repository contains the code we used for our final project. We use Google Colab to process our data and to train our models. 
 
-Please check attached paper to learn more about it
+Please check the attached paper to learn more about it
